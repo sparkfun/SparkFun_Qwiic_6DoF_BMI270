@@ -10,18 +10,6 @@
 <layers>
 <layer number="1" name="Top" color="4" fill="1" visible="no" active="no"/>
 <layer number="2" name="Route2" color="1" fill="3" visible="no" active="no"/>
-<layer number="3" name="Route3" color="4" fill="3" visible="no" active="no"/>
-<layer number="4" name="Route4" color="1" fill="4" visible="no" active="no"/>
-<layer number="5" name="Route5" color="4" fill="4" visible="no" active="no"/>
-<layer number="6" name="Route6" color="1" fill="8" visible="no" active="no"/>
-<layer number="7" name="Route7" color="4" fill="8" visible="no" active="no"/>
-<layer number="8" name="Route8" color="1" fill="2" visible="no" active="no"/>
-<layer number="9" name="Route9" color="4" fill="2" visible="no" active="no"/>
-<layer number="10" name="Route10" color="1" fill="7" visible="no" active="no"/>
-<layer number="11" name="Route11" color="4" fill="7" visible="no" active="no"/>
-<layer number="12" name="Route12" color="1" fill="5" visible="no" active="no"/>
-<layer number="13" name="Route13" color="4" fill="5" visible="no" active="no"/>
-<layer number="14" name="Route14" color="1" fill="6" visible="no" active="no"/>
 <layer number="15" name="Route15" color="4" fill="6" visible="no" active="no"/>
 <layer number="16" name="Bottom" color="1" fill="1" visible="no" active="no"/>
 <layer number="17" name="Pads" color="2" fill="1" visible="no" active="no"/>
@@ -21999,6 +21987,43 @@ We've spent an enormous amount of time creating and checking these footprints an
 &lt;br&gt;
 You are welcome to use this library for commercial purposes. For attribution, we ask that when you begin to sell your device using our footprint, you email us with a link to the product being sold. We want bragging rights that we helped (in a very small part) to create your 8th world wonder. We would like the opportunity to feature your device on our homepage.</description>
 <packages>
+<package name="SMT-JUMPER_3_2-NC_TRACE_NO-SILK" urn="urn:adsk.eagle:footprint:39269/1" locally_modified="yes">
+<smd name="1" x="-1.0414" y="0" dx="0.6604" dy="1.27" layer="1" cream="no"/>
+<smd name="2" x="0" y="0" dx="0.6604" dy="1.27" layer="1" cream="no"/>
+<smd name="3" x="1.0414" y="0" dx="0.6604" dy="1.27" layer="1" cream="no"/>
+<text x="0" y="1.143" size="0.6096" layer="25" font="vector" ratio="20" align="bottom-center">&gt;NAME</text>
+<text x="0" y="-1.143" size="0.6096" layer="27" font="vector" ratio="20" align="top-center">&gt;VALUE</text>
+<polygon width="0.127" layer="29">
+<vertex x="0.3175" y="0.127"/>
+<vertex x="0.6985" y="0.127"/>
+<vertex x="0.6985" y="-0.127"/>
+<vertex x="0.3175" y="-0.127"/>
+</polygon>
+<polygon width="0.127" layer="29">
+<vertex x="-0.6985" y="0.127"/>
+<vertex x="-0.3175" y="0.127"/>
+<vertex x="-0.3175" y="-0.127"/>
+<vertex x="-0.6985" y="-0.127"/>
+</polygon>
+<polygon width="0.0127" layer="1">
+<vertex x="-0.5334" y="0.127"/>
+<vertex x="0.5334" y="0.127"/>
+<vertex x="0.5334" y="-0.127"/>
+<vertex x="-0.5334" y="-0.127"/>
+</polygon>
+<polygon width="0.0127" layer="1">
+<vertex x="0.508" y="0.127"/>
+<vertex x="1.2319" y="0.127"/>
+<vertex x="1.2319" y="-0.127"/>
+<vertex x="0.508" y="-0.127"/>
+</polygon>
+<polygon width="0.0127" layer="1">
+<vertex x="-1.2319" y="0.127"/>
+<vertex x="-0.508" y="0.127"/>
+<vertex x="-0.508" y="-0.127"/>
+<vertex x="-1.2319" y="-0.127"/>
+</polygon>
+</package>
 <package name="SMT-JUMPER_3_2-NC_TRACE_SILK" urn="urn:adsk.eagle:footprint:39270/1" locally_modified="yes">
 <wire x1="1.27" y1="-1.016" x2="-1.27" y2="-1.016" width="0.2032" layer="21"/>
 <wire x1="1.27" y1="1.016" x2="1.7272" y2="0.5588" width="0.2032" layer="21" curve="-90"/>
@@ -22077,6 +22102,55 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <vertex x="0.508" y="-0.127"/>
 </polygon>
 </package>
+<package name="SMT-JUMPER_3_1-NC_TRACE_NO-SILK" urn="urn:adsk.eagle:footprint:39267/1" locally_modified="yes">
+<smd name="1" x="-1.0414" y="0" dx="0.6604" dy="1.27" layer="1" cream="no"/>
+<smd name="2" x="0" y="0" dx="0.6604" dy="1.27" layer="1" cream="no"/>
+<smd name="3" x="1.0414" y="0" dx="0.6604" dy="1.27" layer="1" cream="no"/>
+<text x="0" y="1.143" size="0.6096" layer="25" font="vector" ratio="20" align="bottom-center">&gt;NAME</text>
+<text x="0" y="-1.143" size="0.6096" layer="27" font="vector" ratio="20" align="top-center">&gt;VALUE</text>
+<polygon width="0.127" layer="29">
+<vertex x="0.3175" y="0.127"/>
+<vertex x="0.6985" y="0.127"/>
+<vertex x="0.6985" y="-0.127"/>
+<vertex x="0.3175" y="-0.127"/>
+</polygon>
+<polygon width="0.0127" layer="1">
+<vertex x="-0.1905" y="0.127"/>
+<vertex x="0.5334" y="0.127"/>
+<vertex x="0.5334" y="-0.127"/>
+<vertex x="-0.1905" y="-0.127"/>
+</polygon>
+<polygon width="0.0127" layer="1">
+<vertex x="0.508" y="0.127"/>
+<vertex x="1.2319" y="0.127"/>
+<vertex x="1.2319" y="-0.127"/>
+<vertex x="0.508" y="-0.127"/>
+</polygon>
+</package>
+<package name="SMT-JUMPER_2_NC_TRACE_NO-SILK" urn="urn:adsk.eagle:footprint:39257/1" locally_modified="yes">
+<smd name="1" x="-0.5207" y="0" dx="0.6604" dy="1.27" layer="1" cream="no"/>
+<smd name="2" x="0.5207" y="0" dx="0.6604" dy="1.27" layer="1" cream="no"/>
+<text x="0" y="1.143" size="0.6096" layer="25" font="vector" ratio="20" align="bottom-center">&gt;NAME</text>
+<text x="0" y="-1.143" size="0.6096" layer="27" font="vector" ratio="20" align="top-center">&gt;VALUE</text>
+<polygon width="0.127" layer="29">
+<vertex x="-0.1905" y="0.127"/>
+<vertex x="0.1905" y="0.127"/>
+<vertex x="0.1905" y="-0.127"/>
+<vertex x="-0.1905" y="-0.127"/>
+</polygon>
+<polygon width="0.0127" layer="1">
+<vertex x="-0.6985" y="0.127"/>
+<vertex x="0.0254" y="0.127"/>
+<vertex x="0.0254" y="-0.127"/>
+<vertex x="-0.6985" y="-0.127"/>
+</polygon>
+<polygon width="0.0127" layer="1">
+<vertex x="-0.0254" y="0.127"/>
+<vertex x="0.6985" y="0.127"/>
+<vertex x="0.6985" y="-0.127"/>
+<vertex x="-0.0254" y="-0.127"/>
+</polygon>
+</package>
 <package name="SMT-JUMPER_2_NC_TRACE_SILK" urn="urn:adsk.eagle:footprint:39258/1" locally_modified="yes">
 <wire x1="0.762" y1="-1.016" x2="-0.762" y2="-1.016" width="0.2032" layer="21"/>
 <wire x1="0.762" y1="1.016" x2="1.2192" y2="0.5588" width="0.2032" layer="21" curve="-90"/>
@@ -22109,94 +22183,13 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <vertex x="-0.0254" y="-0.127"/>
 </polygon>
 </package>
-<package name="SMT-JUMPER_3_2-NC_TRACE_NO-SILK" urn="urn:adsk.eagle:footprint:39269/1" locally_modified="yes">
-<smd name="1" x="-1.0414" y="0" dx="0.6604" dy="1.27" layer="1" cream="no"/>
-<smd name="2" x="0" y="0" dx="0.6604" dy="1.27" layer="1" cream="no"/>
-<smd name="3" x="1.0414" y="0" dx="0.6604" dy="1.27" layer="1" cream="no"/>
-<text x="0" y="1.143" size="0.6096" layer="25" font="vector" ratio="20" align="bottom-center">&gt;NAME</text>
-<text x="0" y="-1.143" size="0.6096" layer="27" font="vector" ratio="20" align="top-center">&gt;VALUE</text>
-<polygon width="0.127" layer="29">
-<vertex x="0.3175" y="0.127"/>
-<vertex x="0.6985" y="0.127"/>
-<vertex x="0.6985" y="-0.127"/>
-<vertex x="0.3175" y="-0.127"/>
-</polygon>
-<polygon width="0.127" layer="29">
-<vertex x="-0.6985" y="0.127"/>
-<vertex x="-0.3175" y="0.127"/>
-<vertex x="-0.3175" y="-0.127"/>
-<vertex x="-0.6985" y="-0.127"/>
-</polygon>
-<polygon width="0.0127" layer="1">
-<vertex x="-0.5334" y="0.127"/>
-<vertex x="0.5334" y="0.127"/>
-<vertex x="0.5334" y="-0.127"/>
-<vertex x="-0.5334" y="-0.127"/>
-</polygon>
-<polygon width="0.0127" layer="1">
-<vertex x="0.508" y="0.127"/>
-<vertex x="1.2319" y="0.127"/>
-<vertex x="1.2319" y="-0.127"/>
-<vertex x="0.508" y="-0.127"/>
-</polygon>
-<polygon width="0.0127" layer="1">
-<vertex x="-1.2319" y="0.127"/>
-<vertex x="-0.508" y="0.127"/>
-<vertex x="-0.508" y="-0.127"/>
-<vertex x="-1.2319" y="-0.127"/>
-</polygon>
-</package>
-<package name="SMT-JUMPER_2_NC_TRACE_NO-SILK" urn="urn:adsk.eagle:footprint:39257/1" locally_modified="yes">
-<smd name="1" x="-0.5207" y="0" dx="0.6604" dy="1.27" layer="1" cream="no"/>
-<smd name="2" x="0.5207" y="0" dx="0.6604" dy="1.27" layer="1" cream="no"/>
-<text x="0" y="1.143" size="0.6096" layer="25" font="vector" ratio="20" align="bottom-center">&gt;NAME</text>
-<text x="0" y="-1.143" size="0.6096" layer="27" font="vector" ratio="20" align="top-center">&gt;VALUE</text>
-<polygon width="0.127" layer="29">
-<vertex x="-0.1905" y="0.127"/>
-<vertex x="0.1905" y="0.127"/>
-<vertex x="0.1905" y="-0.127"/>
-<vertex x="-0.1905" y="-0.127"/>
-</polygon>
-<polygon width="0.0127" layer="1">
-<vertex x="-0.6985" y="0.127"/>
-<vertex x="0.0254" y="0.127"/>
-<vertex x="0.0254" y="-0.127"/>
-<vertex x="-0.6985" y="-0.127"/>
-</polygon>
-<polygon width="0.0127" layer="1">
-<vertex x="-0.0254" y="0.127"/>
-<vertex x="0.6985" y="0.127"/>
-<vertex x="0.6985" y="-0.127"/>
-<vertex x="-0.0254" y="-0.127"/>
-</polygon>
-</package>
-<package name="SMT-JUMPER_3_1-NC_TRACE_NO-SILK" urn="urn:adsk.eagle:footprint:39267/1" locally_modified="yes">
-<smd name="1" x="-1.0414" y="0" dx="0.6604" dy="1.27" layer="1" cream="no"/>
-<smd name="2" x="0" y="0" dx="0.6604" dy="1.27" layer="1" cream="no"/>
-<smd name="3" x="1.0414" y="0" dx="0.6604" dy="1.27" layer="1" cream="no"/>
-<text x="0" y="1.143" size="0.6096" layer="25" font="vector" ratio="20" align="bottom-center">&gt;NAME</text>
-<text x="0" y="-1.143" size="0.6096" layer="27" font="vector" ratio="20" align="top-center">&gt;VALUE</text>
-<polygon width="0.127" layer="29">
-<vertex x="0.3175" y="0.127"/>
-<vertex x="0.6985" y="0.127"/>
-<vertex x="0.6985" y="-0.127"/>
-<vertex x="0.3175" y="-0.127"/>
-</polygon>
-<polygon width="0.0127" layer="1">
-<vertex x="-0.1905" y="0.127"/>
-<vertex x="0.5334" y="0.127"/>
-<vertex x="0.5334" y="-0.127"/>
-<vertex x="-0.1905" y="-0.127"/>
-</polygon>
-<polygon width="0.0127" layer="1">
-<vertex x="0.508" y="0.127"/>
-<vertex x="1.2319" y="0.127"/>
-<vertex x="1.2319" y="-0.127"/>
-<vertex x="0.508" y="-0.127"/>
-</polygon>
-</package>
 </packages>
 <packages3d>
+<package3d name="SMT-JUMPER_3_2-NC_TRACE_NO-SILK" urn="urn:adsk.eagle:package:39290/1" type="box">
+<packageinstances>
+<packageinstance name="SMT-JUMPER_3_2-NC_TRACE_NO-SILK"/>
+</packageinstances>
+</package3d>
 <package3d name="SMT-JUMPER_3_2-NC_TRACE_SILK" urn="urn:adsk.eagle:package:39289/1" locally_modified="yes" type="box">
 <packageinstances>
 <packageinstance name="SMT-JUMPER_3_2-NC_TRACE_SILK"/>
@@ -22207,14 +22200,9 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <packageinstance name="SMT-JUMPER_3_1-NC_TRACE_SILK"/>
 </packageinstances>
 </package3d>
-<package3d name="SMT-JUMPER_2_NC_TRACE_SILK" urn="urn:adsk.eagle:package:39281/1" type="box">
+<package3d name="SMT-JUMPER_3_1-NC_TRACE_NO-SILK" urn="urn:adsk.eagle:package:39287/1" type="box">
 <packageinstances>
-<packageinstance name="SMT-JUMPER_2_NC_TRACE_SILK"/>
-</packageinstances>
-</package3d>
-<package3d name="SMT-JUMPER_3_2-NC_TRACE_NO-SILK" urn="urn:adsk.eagle:package:39290/1" type="box">
-<packageinstances>
-<packageinstance name="SMT-JUMPER_3_2-NC_TRACE_NO-SILK"/>
+<packageinstance name="SMT-JUMPER_3_1-NC_TRACE_NO-SILK"/>
 </packageinstances>
 </package3d>
 <package3d name="SMT-JUMPER_2_NC_TRACE_NO-SILK" urn="urn:adsk.eagle:package:39286/1" type="box">
@@ -22222,9 +22210,9 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <packageinstance name="SMT-JUMPER_2_NC_TRACE_NO-SILK"/>
 </packageinstances>
 </package3d>
-<package3d name="SMT-JUMPER_3_1-NC_TRACE_NO-SILK" urn="urn:adsk.eagle:package:39287/1" type="box">
+<package3d name="SMT-JUMPER_2_NC_TRACE_SILK" urn="urn:adsk.eagle:package:39281/1" type="box">
 <packageinstances>
-<packageinstance name="SMT-JUMPER_3_1-NC_TRACE_NO-SILK"/>
+<packageinstance name="SMT-JUMPER_2_NC_TRACE_SILK"/>
 </packageinstances>
 </package3d>
 </packages3d>
@@ -23114,6 +23102,41 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <wire x1="4" y1="-6" x2="-4" y2="-6" width="0.3048" layer="20"/>
 <wire x1="-4" y1="-6" x2="-4" y2="-10.16" width="0.3048" layer="20"/>
 </package>
+<package name="JST04_1MM_VERT">
+<description>&lt;h3&gt;Vertical Qwiic Connector&lt;/h3&gt;
+
+&lt;p&gt;Physical and Electrical Charactersistics&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Voltage Rating: 50V&lt;/li&gt;
+&lt;li&gt;Current Rating 1.0A&lt;/li&gt;
+&lt;li&gt;Contact Resistance: 20 milliohms&lt;/li&gt;
+&lt;li&gt;ROHS Compliant&lt;/li&gt;
+&lt;li&gt;SMD Pitch: 1mm&lt;/li&gt;
+&lt;li&gt;Small pad size: .6mm x 1.55mm&lt;/li&gt;
+&lt;li&gt;Large pad size: 1.2mm x 2.0mm&lt;/li&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+<text x="0" y="4.445" size="0.6096" layer="25" font="vector">&gt;NAME</text>
+<text x="0" y="2.54" size="0.6096" layer="27" font="vector">&gt;VALUE</text>
+<smd name="1" x="-1.5" y="0.775" dx="0.6" dy="1.55" layer="1"/>
+<smd name="2" x="-0.5" y="0.775" dx="0.6" dy="1.55" layer="1"/>
+<smd name="3" x="0.5" y="0.775" dx="0.6" dy="1.55" layer="1"/>
+<smd name="4" x="1.5" y="0.775" dx="0.6" dy="1.55" layer="1"/>
+<smd name="NC1" x="-2.8" y="3.2" dx="1.2" dy="2" layer="1"/>
+<smd name="NC2" x="2.8" y="3.2" dx="1.2" dy="2" layer="1"/>
+<wire x1="1.905" y1="3.937" x2="-1.905" y2="3.937" width="0.254" layer="21"/>
+<wire x1="-3.175" y1="1.397" x2="-3.175" y2="0.635" width="0.254" layer="21"/>
+<wire x1="-3.175" y1="0.635" x2="-2.413" y2="0.635" width="0.254" layer="21"/>
+<wire x1="3.175" y1="1.397" x2="3.175" y2="0.635" width="0.254" layer="21"/>
+<wire x1="3.175" y1="0.635" x2="2.413" y2="0.635" width="0.254" layer="21"/>
+<wire x1="-3" y1="3.5" x2="-3.3" y2="3.5" width="0.1" layer="51"/>
+<wire x1="-3.3" y1="3.5" x2="-3.3" y2="3" width="0.1" layer="51"/>
+<wire x1="-3.3" y1="3" x2="-3" y2="3" width="0.1" layer="51"/>
+<wire x1="3" y1="3" x2="3.3" y2="3" width="0.1" layer="51"/>
+<wire x1="3.3" y1="3" x2="3.3" y2="3.5" width="0.1" layer="51"/>
+<wire x1="3.3" y1="3.5" x2="3" y2="3.5" width="0.1" layer="51"/>
+</package>
 <package name="1X06">
 <description>&lt;h3&gt;Plated Through Hole - 6 Pin&lt;/h3&gt;
 &lt;p&gt;Specifications:
@@ -23880,41 +23903,6 @@ Alternate pin configuration
 <pad name="6" x="8.75" y="5.25" drill="1.4224" shape="long" rot="R90"/>
 <text x="-3.67" y="7.635" size="1.27" layer="25">&gt;NAME</text>
 <text x="-3.67" y="-6.505" size="1.27" layer="27">&gt;VALUE</text>
-</package>
-<package name="JST04_1MM_VERT">
-<description>&lt;h3&gt;Vertical Qwiic Connector&lt;/h3&gt;
-
-&lt;p&gt;Physical and Electrical Charactersistics&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Voltage Rating: 50V&lt;/li&gt;
-&lt;li&gt;Current Rating 1.0A&lt;/li&gt;
-&lt;li&gt;Contact Resistance: 20 milliohms&lt;/li&gt;
-&lt;li&gt;ROHS Compliant&lt;/li&gt;
-&lt;li&gt;SMD Pitch: 1mm&lt;/li&gt;
-&lt;li&gt;Small pad size: .6mm x 1.55mm&lt;/li&gt;
-&lt;li&gt;Large pad size: 1.2mm x 2.0mm&lt;/li&gt;
-&lt;li&gt;&lt;/li&gt;
-&lt;li&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
-<text x="0" y="4.445" size="0.6096" layer="25" font="vector">&gt;NAME</text>
-<text x="0" y="2.54" size="0.6096" layer="27" font="vector">&gt;VALUE</text>
-<smd name="1" x="-1.5" y="0.775" dx="0.6" dy="1.55" layer="1"/>
-<smd name="2" x="-0.5" y="0.775" dx="0.6" dy="1.55" layer="1"/>
-<smd name="3" x="0.5" y="0.775" dx="0.6" dy="1.55" layer="1"/>
-<smd name="4" x="1.5" y="0.775" dx="0.6" dy="1.55" layer="1"/>
-<smd name="NC1" x="-2.8" y="3.2" dx="1.2" dy="2" layer="1"/>
-<smd name="NC2" x="2.8" y="3.2" dx="1.2" dy="2" layer="1"/>
-<wire x1="1.905" y1="3.937" x2="-1.905" y2="3.937" width="0.254" layer="21"/>
-<wire x1="-3.175" y1="1.397" x2="-3.175" y2="0.635" width="0.254" layer="21"/>
-<wire x1="-3.175" y1="0.635" x2="-2.413" y2="0.635" width="0.254" layer="21"/>
-<wire x1="3.175" y1="1.397" x2="3.175" y2="0.635" width="0.254" layer="21"/>
-<wire x1="3.175" y1="0.635" x2="2.413" y2="0.635" width="0.254" layer="21"/>
-<wire x1="-3" y1="3.5" x2="-3.3" y2="3.5" width="0.1" layer="51"/>
-<wire x1="-3.3" y1="3.5" x2="-3.3" y2="3" width="0.1" layer="51"/>
-<wire x1="-3.3" y1="3" x2="-3" y2="3" width="0.1" layer="51"/>
-<wire x1="3" y1="3" x2="3.3" y2="3" width="0.1" layer="51"/>
-<wire x1="3.3" y1="3" x2="3.3" y2="3.5" width="0.1" layer="51"/>
-<wire x1="3.3" y1="3.5" x2="3" y2="3.5" width="0.1" layer="51"/>
 </package>
 <package name="JST-6-SMD-1.25MM-LOCKING">
 <wire x1="-4.25" y1="-0.93" x2="4.25" y2="-0.93" width="0.2032" layer="21"/>
@@ -25106,7 +25094,6 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <text x="101.6" y="30.48" size="1.778" layer="97" font="vector" align="center-right">GND: 0x68
 3.3V: 0x69
 Open: SPI</text>
-<text x="109.22" y="147.32" size="1.27" layer="97"></text>
 <text x="53.34" y="42.926" size="1.778" layer="97" font="vector" align="center">Cut PWR jumper to
 disable power LED</text>
 <text x="38.1" y="63.5" size="2.54" layer="94" font="vector" align="center">Power LED</text>
@@ -25134,10 +25121,10 @@ remove pullup resistors</text>
 </plain>
 <instances>
 <instance part="SUPPLY1" gate="G$1" x="55.88" y="154.94" smashed="yes">
-<attribute name="VALUE" x="55.88" y="157.734" size="1.778" layer="96" align="bottom-center"/>
+<attribute name="VALUE" x="55.88" y="157.734" size="1.778" layer="96" font="vector" align="bottom-center"/>
 </instance>
 <instance part="GND1" gate="1" x="55.88" y="124.46" smashed="yes">
-<attribute name="VALUE" x="55.88" y="124.206" size="1.778" layer="96" align="top-center"/>
+<attribute name="VALUE" x="55.88" y="124.206" size="1.778" layer="96" font="vector" align="top-center"/>
 </instance>
 <instance part="I2C" gate="G$1" x="73.66" y="83.82" smashed="yes" rot="R270">
 <attribute name="NAME" x="73.66" y="80.772" size="1.778" layer="95" font="vector" align="center"/>
@@ -25151,23 +25138,24 @@ remove pullup resistors</text>
 <attribute name="VALUE" x="60.96" y="82.296" size="1.778" layer="96" font="vector" align="top-center"/>
 </instance>
 <instance part="SUPPLY2" gate="G$1" x="73.66" y="91.44" smashed="yes">
-<attribute name="VALUE" x="73.66" y="94.234" size="1.778" layer="96" align="bottom-center"/>
+<attribute name="VALUE" x="73.66" y="94.234" size="1.778" layer="96" font="vector" align="bottom-center"/>
 </instance>
 <instance part="R3" gate="G$1" x="111.76" y="17.78" smashed="yes" rot="R90">
 <attribute name="NAME" x="110.236" y="17.78" size="1.778" layer="95" font="vector" rot="R90" align="bottom-center"/>
 <attribute name="VALUE" x="113.284" y="17.78" size="1.778" layer="96" font="vector" rot="R90" align="top-center"/>
 </instance>
 <instance part="GND2" gate="1" x="111.76" y="7.62" smashed="yes">
-<attribute name="VALUE" x="111.76" y="7.366" size="1.778" layer="96" align="top-center"/>
+<attribute name="VALUE" x="111.76" y="7.366" size="1.778" layer="96" font="vector" align="top-center"/>
 </instance>
 <instance part="ADR" gate="G$1" x="111.76" y="30.48" smashed="yes" rot="MR0">
 <attribute name="NAME" x="106.68" y="30.48" size="1.778" layer="95" font="vector" rot="MR0" align="center"/>
 </instance>
 <instance part="SUPPLY3" gate="G$1" x="111.76" y="50.8" smashed="yes">
-<attribute name="VALUE" x="111.76" y="53.594" size="1.778" layer="96" align="bottom-center"/>
+<attribute name="VALUE" x="111.76" y="53.594" size="1.778" layer="96" font="vector" align="bottom-center"/>
 </instance>
 <instance part="D1" gate="G$1" x="38.1" y="20.32" smashed="yes">
 <attribute name="NAME" x="34.671" y="15.748" size="1.778" layer="95" font="vector" rot="R90"/>
+<attribute name="VALUE" x="40.005" y="15.748" size="1.778" layer="96" font="vector" rot="R90" align="top-left"/>
 </instance>
 <instance part="R4" gate="G$1" x="38.1" y="30.48" smashed="yes" rot="R90">
 <attribute name="NAME" x="36.576" y="30.48" size="1.778" layer="95" font="vector" rot="R90" align="bottom-center"/>
@@ -25177,10 +25165,10 @@ remove pullup resistors</text>
 <attribute name="NAME" x="35.052" y="43.18" size="1.778" layer="95" font="vector" rot="R90" align="center"/>
 </instance>
 <instance part="GND3" gate="1" x="38.1" y="10.16" smashed="yes">
-<attribute name="VALUE" x="38.1" y="9.906" size="1.778" layer="96" align="top-center"/>
+<attribute name="VALUE" x="38.1" y="9.906" size="1.778" layer="96" font="vector" align="top-center"/>
 </instance>
 <instance part="SUPPLY4" gate="G$1" x="38.1" y="50.8" smashed="yes">
-<attribute name="VALUE" x="38.1" y="53.594" size="1.778" layer="96" align="bottom-center"/>
+<attribute name="VALUE" x="38.1" y="53.594" size="1.778" layer="96" font="vector" align="bottom-center"/>
 </instance>
 <instance part="J1" gate="G$1" x="172.72" y="93.98" smashed="yes">
 <attribute name="VALUE" x="165.354" y="83.82" size="1.778" layer="96" font="vector" rot="R90" align="top-left"/>
@@ -25191,30 +25179,30 @@ remove pullup resistors</text>
 <attribute name="NAME" x="205.74" y="163.068" size="1.778" layer="95" font="vector"/>
 </instance>
 <instance part="SUPPLY5" gate="G$1" x="182.88" y="101.6" smashed="yes">
-<attribute name="VALUE" x="182.88" y="104.394" size="1.778" layer="96" align="bottom-center"/>
+<attribute name="VALUE" x="182.88" y="104.394" size="1.778" layer="96" font="vector" align="bottom-center"/>
 </instance>
 <instance part="GND4" gate="1" x="182.88" y="86.36" smashed="yes">
-<attribute name="VALUE" x="182.88" y="86.106" size="1.778" layer="96" align="top-center"/>
+<attribute name="VALUE" x="182.88" y="86.106" size="1.778" layer="96" font="vector" align="top-center"/>
 </instance>
 <instance part="J2" gate="G$1" x="213.36" y="93.98" smashed="yes">
 <attribute name="VALUE" x="205.994" y="83.82" size="1.778" layer="96" font="vector" rot="R90" align="top-left"/>
 <attribute name="NAME" x="208.28" y="101.854" size="1.778" layer="95" font="vector"/>
 </instance>
 <instance part="SUPPLY6" gate="G$1" x="223.52" y="101.6" smashed="yes">
-<attribute name="VALUE" x="223.52" y="104.394" size="1.778" layer="96" align="bottom-center"/>
+<attribute name="VALUE" x="223.52" y="104.394" size="1.778" layer="96" font="vector" align="bottom-center"/>
 </instance>
 <instance part="GND5" gate="1" x="223.52" y="86.36" smashed="yes">
-<attribute name="VALUE" x="223.52" y="86.106" size="1.778" layer="96" align="top-center"/>
+<attribute name="VALUE" x="223.52" y="86.106" size="1.778" layer="96" font="vector" align="top-center"/>
 </instance>
 <instance part="C1" gate="G$1" x="27.94" y="142.24" smashed="yes" rot="R180">
 <attribute name="NAME" x="26.416" y="139.319" size="1.778" layer="95" font="vector" rot="R180"/>
 <attribute name="VALUE" x="26.416" y="144.399" size="1.778" layer="96" font="vector" rot="R180"/>
 </instance>
 <instance part="SUPPLY7" gate="G$1" x="182.88" y="162.56" smashed="yes">
-<attribute name="VALUE" x="182.88" y="165.354" size="1.778" layer="96" align="bottom-center"/>
+<attribute name="VALUE" x="182.88" y="165.354" size="1.778" layer="96" font="vector" align="bottom-center"/>
 </instance>
 <instance part="GND6" gate="1" x="182.88" y="142.24" smashed="yes">
-<attribute name="VALUE" x="182.88" y="141.986" size="1.778" layer="96" align="top-center"/>
+<attribute name="VALUE" x="182.88" y="141.986" size="1.778" layer="96" font="vector" align="top-center"/>
 </instance>
 <instance part="FD1" gate="G$1" x="243.84" y="25.4" smashed="yes"/>
 <instance part="FD2" gate="G$1" x="246.38" y="25.4" smashed="yes"/>
@@ -25231,10 +25219,10 @@ remove pullup resistors</text>
 <attribute name="REV" x="236.22" y="6.604" size="2.7432" layer="94" font="vector"/>
 </instance>
 <instance part="SUPPLY8" gate="G$1" x="27.94" y="147.32" smashed="yes">
-<attribute name="VALUE" x="27.94" y="150.114" size="1.778" layer="96" align="bottom-center"/>
+<attribute name="VALUE" x="27.94" y="150.114" size="1.778" layer="96" font="vector" align="bottom-center"/>
 </instance>
 <instance part="GND7" gate="1" x="27.94" y="132.08" smashed="yes">
-<attribute name="VALUE" x="27.94" y="131.826" size="1.778" layer="96" align="top-center"/>
+<attribute name="VALUE" x="27.94" y="131.826" size="1.778" layer="96" font="vector" align="top-center"/>
 </instance>
 <instance part="LOGO1" gate="G$1" x="190.5" y="33.02" smashed="yes"/>
 <instance part="LOGO2" gate="G$1" x="180.34" y="43.18" smashed="yes"/>
@@ -25254,7 +25242,7 @@ remove pullup resistors</text>
 <attribute name="VALUE" x="92.964" y="160.02" size="1.778" layer="96" font="vector" rot="R90" align="top-center"/>
 </instance>
 <instance part="SUPPLY9" gate="G$1" x="91.44" y="167.64" smashed="yes">
-<attribute name="VALUE" x="91.44" y="170.434" size="1.778" layer="96" align="bottom-center"/>
+<attribute name="VALUE" x="91.44" y="170.434" size="1.778" layer="96" font="vector" align="bottom-center"/>
 </instance>
 <instance part="J4" gate="JP1" x="175.26" y="152.4" smashed="yes">
 <attribute name="VALUE" x="170.18" y="142.494" size="1.778" layer="96" font="vector"/>
@@ -25265,10 +25253,10 @@ remove pullup resistors</text>
 <attribute name="VALUE" x="39.116" y="144.399" size="1.778" layer="96" font="vector" rot="R180"/>
 </instance>
 <instance part="SUPPLY10" gate="G$1" x="40.64" y="147.32" smashed="yes">
-<attribute name="VALUE" x="40.64" y="150.114" size="1.778" layer="96" align="bottom-center"/>
+<attribute name="VALUE" x="40.64" y="150.114" size="1.778" layer="96" font="vector" align="bottom-center"/>
 </instance>
 <instance part="GND8" gate="1" x="40.64" y="132.08" smashed="yes">
-<attribute name="VALUE" x="40.64" y="131.826" size="1.778" layer="96" align="top-center"/>
+<attribute name="VALUE" x="40.64" y="131.826" size="1.778" layer="96" font="vector" align="top-center"/>
 </instance>
 </instances>
 <busses>
