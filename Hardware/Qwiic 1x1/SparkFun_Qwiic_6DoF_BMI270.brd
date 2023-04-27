@@ -34,7 +34,7 @@
 <layer number="24" name="bOrigins" color="15" fill="1" visible="yes" active="yes"/>
 <layer number="25" name="tNames" color="7" fill="1" visible="no" active="yes"/>
 <layer number="26" name="bNames" color="7" fill="1" visible="no" active="yes"/>
-<layer number="27" name="tValues" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="27" name="tValues" color="7" fill="1" visible="no" active="yes"/>
 <layer number="28" name="bValues" color="7" fill="1" visible="no" active="yes"/>
 <layer number="29" name="tStop" color="7" fill="3" visible="no" active="yes"/>
 <layer number="30" name="bStop" color="7" fill="6" visible="no" active="yes"/>
@@ -246,6 +246,43 @@
 <vertex x="0.381" y="18.415"/>
 </polygon>
 <wire x1="4.826" y1="17.78" x2="3.556" y2="16.51" width="0.254" layer="21" curve="-90"/>
+<text x="27.94" y="40.64" size="1.778" layer="51" font="vector" ratio="15" align="top-left">Solder Mask: Red
+Thickness: 1.6mm
+Two layer design
+Finish: Lead Free HASL</text>
+<circle x="3.556" y="16.51" radius="0.508" width="0.254" layer="22"/>
+<wire x1="1.397" y1="17.145" x2="1.397" y2="15.24" width="0.254" layer="22" style="shortdash"/>
+<wire x1="3.302" y1="18.923" x2="5.207" y2="18.923" width="0.254" layer="22" style="shortdash"/>
+<polygon width="0.254" layer="22">
+<vertex x="1.397" y="15.24"/>
+<vertex x="1.016" y="15.875"/>
+<vertex x="1.778" y="15.875"/>
+</polygon>
+<polygon width="0.254" layer="22">
+<vertex x="5.207" y="18.923"/>
+<vertex x="4.572" y="18.542"/>
+<vertex x="4.572" y="19.304"/>
+</polygon>
+<polygon width="0.254" layer="22">
+<vertex x="4.826" y="17.145"/>
+<vertex x="5.207" y="16.51"/>
+<vertex x="4.445" y="16.51"/>
+</polygon>
+<wire x1="0.762" y1="16.764" x2="2.032" y2="16.764" width="0.254" layer="22" curve="90"/>
+<wire x1="3.683" y1="18.288" x2="3.683" y2="19.558" width="0.254" layer="22" curve="90"/>
+<polygon width="0.254" layer="22">
+<vertex x="3.937" y="19.812"/>
+<vertex x="3.302" y="19.431"/>
+<vertex x="3.302" y="20.193"/>
+</polygon>
+<polygon width="0.254" layer="22">
+<vertex x="2.286" y="16.51"/>
+<vertex x="1.905" y="17.145"/>
+<vertex x="2.667" y="17.145"/>
+</polygon>
+<wire x1="3.556" y1="15.24" x2="4.826" y2="16.51" width="0.254" layer="22" curve="90"/>
+<wire x1="3.302" y1="16.256" x2="3.81" y2="16.764" width="0.254" layer="22"/>
+<wire x1="3.81" y1="16.256" x2="3.302" y2="16.764" width="0.254" layer="22"/>
 </plain>
 <libraries>
 <library name="SparkFun-LED">
@@ -1289,6 +1326,21 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <vertex x="1.418" y="1.486"/>
 <vertex x="1.248" y="1.656"/>
 </polygon>
+</package>
+<package name="ORDERING_INSTRUCTIONS">
+<description>&lt;h3&gt;Special Ordering Instructions Alert&lt;/h3&gt;
+&lt;p&gt;Indicates that the PCB material, colors, copper weights, and/or thickness are non-standard.&lt;/p&gt;
+&lt;p&gt;(Standard is 1.6mm FR4, 1 oz copper, immersion silver plating, red soldermask, white silkscreen.)&lt;/p&gt;
+&lt;p&gt;Use 0.7" Vector font @ 8% ratio</description>
+<text x="1.27" y="-1.27" size="3.048" layer="51" font="vector" ratio="15" align="top-left">Ordering Instructions:</text>
+<wire x1="0" y1="0" x2="101.6" y2="0" width="0.2032" layer="51"/>
+<wire x1="101.6" y1="0" x2="101.6" y2="-8.89" width="0.2032" layer="51"/>
+<wire x1="101.6" y1="-8.89" x2="101.6" y2="-50.8" width="0.2032" layer="51"/>
+<wire x1="101.6" y1="-50.8" x2="0" y2="-50.8" width="0.2032" layer="51"/>
+<wire x1="0" y1="-50.8" x2="0" y2="-8.89" width="0.2032" layer="51"/>
+<wire x1="0" y1="-8.89" x2="0" y2="0" width="0.2032" layer="51"/>
+<wire x1="0" y1="-8.89" x2="101.6" y2="-8.89" width="0.2032" layer="51"/>
+<text x="1.27" y="-6.35" size="1.778" layer="51" font="vector" align="top-left">(Add these comments when uploading gerbers.)</text>
 </package>
 </packages>
 </library>
@@ -5329,6 +5381,141 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <vertex x="-1.9" y="-0.04"/>
 </polygon>
 </package>
+<package name="PWR0">
+<polygon width="0.01" layer="21">
+<vertex x="-0.89" y="0.24"/>
+<vertex x="-0.92" y="0.3"/>
+<vertex x="-0.96" y="0.35"/>
+<vertex x="-1.01" y="0.4"/>
+<vertex x="-1.07" y="0.44"/>
+<vertex x="-1.13" y="0.47"/>
+<vertex x="-1.2" y="0.48"/>
+<vertex x="-1.26" y="0.48"/>
+<vertex x="-1.46" y="0.48"/>
+<vertex x="-1.54" y="0.48"/>
+<vertex x="-1.6" y="0.46"/>
+<vertex x="-1.62" y="0.41"/>
+<vertex x="-1.62" y="-0.34"/>
+<vertex x="-1.62" y="-0.41"/>
+<vertex x="-1.6" y="-0.45"/>
+<vertex x="-1.53" y="-0.47"/>
+<vertex x="-1.44" y="-0.47"/>
+<vertex x="-1.4" y="-0.43"/>
+<vertex x="-1.39" y="-0.37"/>
+<vertex x="-1.39" y="-0.23"/>
+<vertex x="-1.35" y="-0.21"/>
+<vertex x="-1.21" y="-0.21"/>
+<vertex x="-1.15" y="-0.2"/>
+<vertex x="-1.09" y="-0.18"/>
+<vertex x="-1.19" y="0.02"/>
+<vertex x="-1.39" y="0.02"/>
+<vertex x="-1.39" y="0.22"/>
+<vertex x="-1.35" y="0.25"/>
+<vertex x="-1.22" y="0.25"/>
+<vertex x="-1.16" y="0.23"/>
+<vertex x="-1.12" y="0.17"/>
+<vertex x="-1.12" y="0.1"/>
+<vertex x="-1.15" y="0.05"/>
+<vertex x="-1.19" y="0.02"/>
+<vertex x="-1.09" y="-0.18"/>
+<vertex x="-1.03" y="-0.14"/>
+<vertex x="-0.97" y="-0.1"/>
+<vertex x="-0.93" y="-0.05"/>
+<vertex x="-0.9" y="0.02"/>
+<vertex x="-0.89" y="0.08"/>
+<vertex x="-0.88" y="0.15"/>
+<vertex x="-0.88" y="0.22"/>
+</polygon>
+<polygon width="0.01" layer="21">
+<vertex x="0.46" y="0.47"/>
+<vertex x="0.39" y="0.49"/>
+<vertex x="0.33" y="0.45"/>
+<vertex x="0.18" y="0.01"/>
+<vertex x="0.16" y="-0.01"/>
+<vertex x="0.03" y="0.38"/>
+<vertex x="0" y="0.44"/>
+<vertex x="-0.05" y="0.48"/>
+<vertex x="-0.12" y="0.47"/>
+<vertex x="-0.18" y="0.44"/>
+<vertex x="-0.21" y="0.37"/>
+<vertex x="-0.34" y="-0.01"/>
+<vertex x="-0.36" y="0.01"/>
+<vertex x="-0.48" y="0.4"/>
+<vertex x="-0.51" y="0.46"/>
+<vertex x="-0.57" y="0.49"/>
+<vertex x="-0.64" y="0.47"/>
+<vertex x="-0.7" y="0.43"/>
+<vertex x="-0.71" y="0.38"/>
+<vertex x="-0.7" y="0.31"/>
+<vertex x="-0.45" y="-0.4"/>
+<vertex x="-0.41" y="-0.45"/>
+<vertex x="-0.35" y="-0.47"/>
+<vertex x="-0.28" y="-0.46"/>
+<vertex x="-0.24" y="-0.4"/>
+<vertex x="-0.16" y="-0.17"/>
+<vertex x="-0.08" y="0.04"/>
+<vertex x="0.05" y="-0.35"/>
+<vertex x="0.07" y="-0.41"/>
+<vertex x="0.12" y="-0.46"/>
+<vertex x="0.18" y="-0.47"/>
+<vertex x="0.25" y="-0.44"/>
+<vertex x="0.28" y="-0.39"/>
+<vertex x="0.53" y="0.32"/>
+<vertex x="0.55" y="0.39"/>
+<vertex x="0.53" y="0.43"/>
+</polygon>
+<polygon width="0.01" layer="21">
+<vertex x="1.49" y="-0.27"/>
+<vertex x="1.44" y="-0.14"/>
+<vertex x="1.43" y="-0.09"/>
+<vertex x="1.47" y="-0.04"/>
+<vertex x="1.5" y="0.02"/>
+<vertex x="1.52" y="0.09"/>
+<vertex x="1.52" y="0.16"/>
+<vertex x="1.51" y="0.23"/>
+<vertex x="1.49" y="0.29"/>
+<vertex x="1.45" y="0.35"/>
+<vertex x="1.41" y="0.39"/>
+<vertex x="1.25" y="0.23"/>
+<vertex x="1.29" y="0.17"/>
+<vertex x="1.29" y="0.1"/>
+<vertex x="1.25" y="0.05"/>
+<vertex x="1.18" y="0.03"/>
+<vertex x="1.05" y="0.03"/>
+<vertex x="1.01" y="0.03"/>
+<vertex x="1.01" y="0.23"/>
+<vertex x="1.05" y="0.26"/>
+<vertex x="1.12" y="0.26"/>
+<vertex x="1.19" y="0.26"/>
+<vertex x="1.25" y="0.23"/>
+<vertex x="1.4" y="0.4"/>
+<vertex x="1.35" y="0.44"/>
+<vertex x="1.28" y="0.47"/>
+<vertex x="1.22" y="0.48"/>
+<vertex x="1.16" y="0.49"/>
+<vertex x="0.88" y="0.49"/>
+<vertex x="0.81" y="0.47"/>
+<vertex x="0.78" y="0.42"/>
+<vertex x="0.78" y="0.35"/>
+<vertex x="0.78" y="-0.33"/>
+<vertex x="0.79" y="-0.4"/>
+<vertex x="0.81" y="-0.45"/>
+<vertex x="0.88" y="-0.47"/>
+<vertex x="0.96" y="-0.46"/>
+<vertex x="1" y="-0.42"/>
+<vertex x="1.01" y="-0.36"/>
+<vertex x="1.01" y="-0.22"/>
+<vertex x="1.06" y="-0.2"/>
+<vertex x="1.2" y="-0.2"/>
+<vertex x="1.25" y="-0.28"/>
+<vertex x="1.32" y="-0.44"/>
+<vertex x="1.37" y="-0.47"/>
+<vertex x="1.43" y="-0.46"/>
+<vertex x="1.5" y="-0.42"/>
+<vertex x="1.53" y="-0.37"/>
+<vertex x="1.51" y="-0.3"/>
+</polygon>
+</package>
 </packages>
 </library>
 <library name="BMI270">
@@ -5774,6 +5961,11 @@ These are the free and generally easy to produce 2-layer PCB design rules. You c
 <element name="U$30" library="output" package="#INT2_#0" value="" x="11.43" y="24.003" smashed="yes" rot="MR90"/>
 <element name="U$31" library="output" package="##OCS#_#0" value="" x="8.89" y="24.003" smashed="yes" rot="MR90"/>
 <element name="U$32" library="output" package="#OSDO_#0" value="" x="6.35" y="24.003" smashed="yes" rot="MR90"/>
+<element name="U$33" library="SparkFun-Aesthetics" package="ORDERING_INSTRUCTIONS" value="" x="26.67" y="50.8" smashed="yes"/>
+<element name="U$79" library="output" package="X0" value="" x="1.27" y="17.907" smashed="yes" rot="MR0"/>
+<element name="U$80" library="output" package="Y0" value="" x="2.54" y="19.05" smashed="yes" rot="MR0"/>
+<element name="U$81" library="output" package="Z0" value="" x="5.588" y="15.494" smashed="yes" rot="MR0"/>
+<element name="U$34" library="output" package="PWR0" value="" x="7.62" y="7.62" smashed="yes" rot="R90"/>
 </elements>
 <signals>
 <signal name="3.3V">
@@ -6087,6 +6279,8 @@ These are the free and generally easy to produce 2-layer PCB design rules. You c
 <wire x1="19.05" y1="5.715" x2="18.8214" y2="5.9436" width="0.254" layer="16"/>
 <wire x1="18.8214" y1="5.9436" x2="18.8214" y2="7.62" width="0.254" layer="16"/>
 </signal>
+<signal name="IMU_INT2">
+</signal>
 </signals>
 <mfgpreviewcolors>
 <mfgpreviewcolor name="soldermaskcolor" color="0xC8FF0000"/>
@@ -6104,14 +6298,18 @@ These are the free and generally easy to produce 2-layer PCB design rules. You c
 <approved hash="5,16,3cd3f0e495f737f7"/>
 <approved hash="5,16,d8854f65b5166db6"/>
 <approved hash="5,1,1c3cd0bcff3971bb"/>
-<approved hash="19,16,8678705bf32c2b57"/>
 <approved hash="19,16,ad8aa7ab64851517"/>
 <approved hash="19,16,76f1513fa683b916"/>
 <approved hash="19,16,e05eaf5f57d3f37d"/>
+<approved hash="19,16,bcf14892c9a5139e"/>
 </errors>
 </board>
 </drawing>
 <compatibility>
+<note version="6.3" minversion="6.2.2" severity="warning">
+Since Version 6.2.2 text objects can contain more than one line,
+which will not be processed correctly with this version.
+</note>
 <note version="8.3" severity="warning">
 Since Version 8.3, EAGLE supports URNs for individual library
 assets (packages, symbols, and devices). The URNs of those assets

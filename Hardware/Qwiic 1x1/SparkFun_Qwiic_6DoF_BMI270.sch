@@ -25112,7 +25112,8 @@ disable power LED</text>
 <wire x1="147.32" y1="68.58" x2="73.66" y2="68.58" width="0.1524" layer="97" style="longdash"/>
 <text x="73.66" y="75.946" size="1.778" layer="97" font="vector" align="center">Cut I2C jumper to
 remove pullup resistors</text>
-<text x="73.66" y="159.766" size="1.778" layer="97" font="vector" align="center">Max voltage: 3.6V</text>
+<text x="73.66" y="159.766" size="1.778" layer="97" font="vector" align="center">VDD Range:
+1.71V - 3.6V</text>
 <wire x1="73.66" y1="68.58" x2="0" y2="68.58" width="0.1524" layer="97" style="longdash"/>
 <wire x1="73.66" y1="68.58" x2="73.66" y2="0" width="0.1524" layer="97" style="longdash"/>
 <text x="111.76" y="63.5" size="2.54" layer="94" font="vector" align="center">I2C Address Selection</text>
@@ -25148,7 +25149,7 @@ remove pullup resistors</text>
 <attribute name="VALUE" x="111.76" y="7.366" size="1.778" layer="96" font="vector" align="top-center"/>
 </instance>
 <instance part="ADR" gate="G$1" x="111.76" y="30.48" smashed="yes" rot="MR0">
-<attribute name="NAME" x="106.68" y="30.48" size="1.778" layer="95" font="vector" rot="MR0" align="center"/>
+<attribute name="NAME" x="108.712" y="30.48" size="1.778" layer="95" font="vector" rot="MR270" align="center"/>
 </instance>
 <instance part="SUPPLY3" gate="G$1" x="111.76" y="50.8" smashed="yes">
 <attribute name="VALUE" x="111.76" y="53.594" size="1.778" layer="96" font="vector" align="bottom-center"/>
