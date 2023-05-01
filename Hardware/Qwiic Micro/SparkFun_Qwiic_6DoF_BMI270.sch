@@ -24324,7 +24324,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <sheets>
 <sheet>
 <plain>
-<text x="101.6" y="30.48" size="1.778" layer="97" font="vector" align="center-right">GND: 0x68
+<text x="101.6" y="30.48" size="1.778" layer="97" font="vector" align="center-right">(Default) GND: 0x68
 3.3V: 0x69
 Open: SPI</text>
 <text x="53.34" y="20.066" size="1.778" layer="97" font="vector" align="center">Cut PWR jumper to
