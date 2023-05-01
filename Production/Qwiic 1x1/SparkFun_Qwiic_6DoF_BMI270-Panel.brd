@@ -7979,7 +7979,6 @@ These are the free and generally easy to produce 2-layer PCB design rules. You c
 </element>
 <element name="J3" library="SparkFun-Connectors" package="1X06_NO_SILK" value="" x="19.05" y="24.13" smashed="yes" rot="R180">
 <attribute name="NAME" x="20.32" y="22.733" size="0.6096" layer="25" font="vector" ratio="20" rot="R180"/>
-<attribute name="PROD_ID" value="CONN-08437" x="-7.62" y="46.99" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="VALUE" x="20.32" y="26.162" size="0.6096" layer="27" font="vector" ratio="20" rot="R180"/>
 </element>
 <element name="I2C" library="SparkFun-Jumpers" package="SMT-JUMPER_3_2-NC_TRACE_SILK" package3d_urn="urn:adsk.eagle:package:39289/1" value="JUMPER-SMT_3_2-NC_TRACE_SILK" x="12.7" y="7.62" smashed="yes" rot="MR0">
@@ -8058,7 +8057,6 @@ These are the free and generally easy to produce 2-layer PCB design rules. You c
 </element>
 <element name="J4" library="SparkFun-Connectors" package="1X06_NO_SILK" value="" x="6.35" y="1.27" smashed="yes">
 <attribute name="NAME" x="5.08" y="2.667" size="0.6096" layer="25" font="vector" ratio="20"/>
-<attribute name="PROD_ID" value="CONN-08437" x="6.35" y="1.27" size="1.778" layer="27" font="vector" ratio="15" display="off"/>
 <attribute name="VALUE" x="5.08" y="-0.762" size="0.6096" layer="27" font="vector" ratio="20"/>
 </element>
 <element name="C2" library="SparkFun-Capacitors" package="0603" value="0.1uF" x="8.89" y="12.7" smashed="yes" rot="R90">
@@ -8121,7 +8119,6 @@ These are the free and generally easy to produce 2-layer PCB design rules. You c
 </element>
 <element name="J7" library="SparkFun-Connectors" package="1X06_NO_SILK" value="" x="44.958" y="24.13" smashed="yes" rot="R180">
 <attribute name="NAME" x="46.228" y="22.733" size="0.6096" layer="25" font="vector" ratio="20" rot="R180"/>
-<attribute name="PROD_ID" value="CONN-08437" x="18.288" y="46.99" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="VALUE" x="46.228" y="26.162" size="0.6096" layer="27" font="vector" ratio="20" rot="R180"/>
 </element>
 <element name="I2C1" library="SparkFun-Jumpers" package="SMT-JUMPER_3_2-NC_TRACE_SILK" package3d_urn="urn:adsk.eagle:package:39289/1" value="JUMPER-SMT_3_2-NC_TRACE_SILK" x="38.608" y="7.62" smashed="yes" rot="MR0">
@@ -8200,7 +8197,6 @@ These are the free and generally easy to produce 2-layer PCB design rules. You c
 </element>
 <element name="J8" library="SparkFun-Connectors" package="1X06_NO_SILK" value="" x="32.258" y="1.27" smashed="yes">
 <attribute name="NAME" x="30.988" y="2.667" size="0.6096" layer="25" font="vector" ratio="20"/>
-<attribute name="PROD_ID" value="CONN-08437" x="32.258" y="1.27" size="1.778" layer="27" font="vector" ratio="15" display="off"/>
 <attribute name="VALUE" x="30.988" y="-0.762" size="0.6096" layer="27" font="vector" ratio="20"/>
 </element>
 <element name="C4" library="SparkFun-Capacitors" package="0603" value="0.1uF" x="34.798" y="12.7" smashed="yes" rot="R90">
@@ -8263,7 +8259,6 @@ These are the free and generally easy to produce 2-layer PCB design rules. You c
 </element>
 <element name="J11" library="SparkFun-Connectors" package="1X06_NO_SILK" value="" x="70.866" y="24.13" smashed="yes" rot="R180">
 <attribute name="NAME" x="72.136" y="22.733" size="0.6096" layer="25" font="vector" ratio="20" rot="R180"/>
-<attribute name="PROD_ID" value="CONN-08437" x="44.196" y="46.99" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="VALUE" x="72.136" y="26.162" size="0.6096" layer="27" font="vector" ratio="20" rot="R180"/>
 </element>
 <element name="I2C2" library="SparkFun-Jumpers" package="SMT-JUMPER_3_2-NC_TRACE_SILK" package3d_urn="urn:adsk.eagle:package:39289/1" value="JUMPER-SMT_3_2-NC_TRACE_SILK" x="64.516" y="7.62" smashed="yes" rot="MR0">
@@ -8342,7 +8337,6 @@ These are the free and generally easy to produce 2-layer PCB design rules. You c
 </element>
 <element name="J12" library="SparkFun-Connectors" package="1X06_NO_SILK" value="" x="58.166" y="1.27" smashed="yes">
 <attribute name="NAME" x="56.896" y="2.667" size="0.6096" layer="25" font="vector" ratio="20"/>
-<attribute name="PROD_ID" value="CONN-08437" x="58.166" y="1.27" size="1.778" layer="27" font="vector" ratio="15" display="off"/>
 <attribute name="VALUE" x="56.896" y="-0.762" size="0.6096" layer="27" font="vector" ratio="20"/>
 </element>
 <element name="C6" library="SparkFun-Capacitors" package="0603" value="0.1uF" x="60.706" y="12.7" smashed="yes" rot="R90">
@@ -8405,7 +8399,6 @@ These are the free and generally easy to produce 2-layer PCB design rules. You c
 </element>
 <element name="J15" library="SparkFun-Connectors" package="1X06_NO_SILK" value="" x="96.774" y="24.13" smashed="yes" rot="R180">
 <attribute name="NAME" x="98.044" y="22.733" size="0.6096" layer="25" font="vector" ratio="20" rot="R180"/>
-<attribute name="PROD_ID" value="CONN-08437" x="70.104" y="46.99" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="VALUE" x="98.044" y="26.162" size="0.6096" layer="27" font="vector" ratio="20" rot="R180"/>
 </element>
 <element name="I2C3" library="SparkFun-Jumpers" package="SMT-JUMPER_3_2-NC_TRACE_SILK" package3d_urn="urn:adsk.eagle:package:39289/1" value="JUMPER-SMT_3_2-NC_TRACE_SILK" x="90.424" y="7.62" smashed="yes" rot="MR0">
@@ -8484,7 +8477,6 @@ These are the free and generally easy to produce 2-layer PCB design rules. You c
 </element>
 <element name="J16" library="SparkFun-Connectors" package="1X06_NO_SILK" value="" x="84.074" y="1.27" smashed="yes">
 <attribute name="NAME" x="82.804" y="2.667" size="0.6096" layer="25" font="vector" ratio="20"/>
-<attribute name="PROD_ID" value="CONN-08437" x="84.074" y="1.27" size="1.778" layer="27" font="vector" ratio="15" display="off"/>
 <attribute name="VALUE" x="82.804" y="-0.762" size="0.6096" layer="27" font="vector" ratio="20"/>
 </element>
 <element name="C8" library="SparkFun-Capacitors" package="0603" value="0.1uF" x="86.614" y="12.7" smashed="yes" rot="R90">
@@ -8547,7 +8539,6 @@ These are the free and generally easy to produce 2-layer PCB design rules. You c
 </element>
 <element name="J19" library="SparkFun-Connectors" package="1X06_NO_SILK" value="" x="122.682" y="24.13" smashed="yes" rot="R180">
 <attribute name="NAME" x="123.952" y="22.733" size="0.6096" layer="25" font="vector" ratio="20" rot="R180"/>
-<attribute name="PROD_ID" value="CONN-08437" x="96.012" y="46.99" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="VALUE" x="123.952" y="26.162" size="0.6096" layer="27" font="vector" ratio="20" rot="R180"/>
 </element>
 <element name="I2C4" library="SparkFun-Jumpers" package="SMT-JUMPER_3_2-NC_TRACE_SILK" package3d_urn="urn:adsk.eagle:package:39289/1" value="JUMPER-SMT_3_2-NC_TRACE_SILK" x="116.332" y="7.62" smashed="yes" rot="MR0">
@@ -8626,7 +8617,6 @@ These are the free and generally easy to produce 2-layer PCB design rules. You c
 </element>
 <element name="J20" library="SparkFun-Connectors" package="1X06_NO_SILK" value="" x="109.982" y="1.27" smashed="yes">
 <attribute name="NAME" x="108.712" y="2.667" size="0.6096" layer="25" font="vector" ratio="20"/>
-<attribute name="PROD_ID" value="CONN-08437" x="109.982" y="1.27" size="1.778" layer="27" font="vector" ratio="15" display="off"/>
 <attribute name="VALUE" x="108.712" y="-0.762" size="0.6096" layer="27" font="vector" ratio="20"/>
 </element>
 <element name="C10" library="SparkFun-Capacitors" package="0603" value="0.1uF" x="112.522" y="12.7" smashed="yes" rot="R90">
@@ -8689,7 +8679,6 @@ These are the free and generally easy to produce 2-layer PCB design rules. You c
 </element>
 <element name="J23" library="SparkFun-Connectors" package="1X06_NO_SILK" value="" x="148.59" y="24.13" smashed="yes" rot="R180">
 <attribute name="NAME" x="149.86" y="22.733" size="0.6096" layer="25" font="vector" ratio="20" rot="R180"/>
-<attribute name="PROD_ID" value="CONN-08437" x="121.92" y="46.99" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="VALUE" x="149.86" y="26.162" size="0.6096" layer="27" font="vector" ratio="20" rot="R180"/>
 </element>
 <element name="I2C5" library="SparkFun-Jumpers" package="SMT-JUMPER_3_2-NC_TRACE_SILK" package3d_urn="urn:adsk.eagle:package:39289/1" value="JUMPER-SMT_3_2-NC_TRACE_SILK" x="142.24" y="7.62" smashed="yes" rot="MR0">
@@ -8768,7 +8757,6 @@ These are the free and generally easy to produce 2-layer PCB design rules. You c
 </element>
 <element name="J24" library="SparkFun-Connectors" package="1X06_NO_SILK" value="" x="135.89" y="1.27" smashed="yes">
 <attribute name="NAME" x="134.62" y="2.667" size="0.6096" layer="25" font="vector" ratio="20"/>
-<attribute name="PROD_ID" value="CONN-08437" x="135.89" y="1.27" size="1.778" layer="27" font="vector" ratio="15" display="off"/>
 <attribute name="VALUE" x="134.62" y="-0.762" size="0.6096" layer="27" font="vector" ratio="20"/>
 </element>
 <element name="C12" library="SparkFun-Capacitors" package="0603" value="0.1uF" x="138.43" y="12.7" smashed="yes" rot="R90">
@@ -8831,7 +8819,6 @@ These are the free and generally easy to produce 2-layer PCB design rules. You c
 </element>
 <element name="J27" library="SparkFun-Connectors" package="1X06_NO_SILK" value="" x="19.05" y="50.038" smashed="yes" rot="R180">
 <attribute name="NAME" x="20.32" y="48.641" size="0.6096" layer="25" font="vector" ratio="20" rot="R180"/>
-<attribute name="PROD_ID" value="CONN-08437" x="-7.62" y="72.898" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="VALUE" x="20.32" y="52.07" size="0.6096" layer="27" font="vector" ratio="20" rot="R180"/>
 </element>
 <element name="I2C6" library="SparkFun-Jumpers" package="SMT-JUMPER_3_2-NC_TRACE_SILK" package3d_urn="urn:adsk.eagle:package:39289/1" value="JUMPER-SMT_3_2-NC_TRACE_SILK" x="12.7" y="33.528" smashed="yes" rot="MR0">
@@ -8910,7 +8897,6 @@ These are the free and generally easy to produce 2-layer PCB design rules. You c
 </element>
 <element name="J28" library="SparkFun-Connectors" package="1X06_NO_SILK" value="" x="6.35" y="27.178" smashed="yes">
 <attribute name="NAME" x="5.08" y="28.575" size="0.6096" layer="25" font="vector" ratio="20"/>
-<attribute name="PROD_ID" value="CONN-08437" x="6.35" y="27.178" size="1.778" layer="27" font="vector" ratio="15" display="off"/>
 <attribute name="VALUE" x="5.08" y="25.146" size="0.6096" layer="27" font="vector" ratio="20"/>
 </element>
 <element name="C14" library="SparkFun-Capacitors" package="0603" value="0.1uF" x="8.89" y="38.608" smashed="yes" rot="R90">
@@ -8973,7 +8959,6 @@ These are the free and generally easy to produce 2-layer PCB design rules. You c
 </element>
 <element name="J31" library="SparkFun-Connectors" package="1X06_NO_SILK" value="" x="44.958" y="50.038" smashed="yes" rot="R180">
 <attribute name="NAME" x="46.228" y="48.641" size="0.6096" layer="25" font="vector" ratio="20" rot="R180"/>
-<attribute name="PROD_ID" value="CONN-08437" x="18.288" y="72.898" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="VALUE" x="46.228" y="52.07" size="0.6096" layer="27" font="vector" ratio="20" rot="R180"/>
 </element>
 <element name="I2C7" library="SparkFun-Jumpers" package="SMT-JUMPER_3_2-NC_TRACE_SILK" package3d_urn="urn:adsk.eagle:package:39289/1" value="JUMPER-SMT_3_2-NC_TRACE_SILK" x="38.608" y="33.528" smashed="yes" rot="MR0">
@@ -9052,7 +9037,6 @@ These are the free and generally easy to produce 2-layer PCB design rules. You c
 </element>
 <element name="J32" library="SparkFun-Connectors" package="1X06_NO_SILK" value="" x="32.258" y="27.178" smashed="yes">
 <attribute name="NAME" x="30.988" y="28.575" size="0.6096" layer="25" font="vector" ratio="20"/>
-<attribute name="PROD_ID" value="CONN-08437" x="32.258" y="27.178" size="1.778" layer="27" font="vector" ratio="15" display="off"/>
 <attribute name="VALUE" x="30.988" y="25.146" size="0.6096" layer="27" font="vector" ratio="20"/>
 </element>
 <element name="C16" library="SparkFun-Capacitors" package="0603" value="0.1uF" x="34.798" y="38.608" smashed="yes" rot="R90">
@@ -9115,7 +9099,6 @@ These are the free and generally easy to produce 2-layer PCB design rules. You c
 </element>
 <element name="J35" library="SparkFun-Connectors" package="1X06_NO_SILK" value="" x="70.866" y="50.038" smashed="yes" rot="R180">
 <attribute name="NAME" x="72.136" y="48.641" size="0.6096" layer="25" font="vector" ratio="20" rot="R180"/>
-<attribute name="PROD_ID" value="CONN-08437" x="44.196" y="72.898" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="VALUE" x="72.136" y="52.07" size="0.6096" layer="27" font="vector" ratio="20" rot="R180"/>
 </element>
 <element name="I2C8" library="SparkFun-Jumpers" package="SMT-JUMPER_3_2-NC_TRACE_SILK" package3d_urn="urn:adsk.eagle:package:39289/1" value="JUMPER-SMT_3_2-NC_TRACE_SILK" x="64.516" y="33.528" smashed="yes" rot="MR0">
@@ -9194,7 +9177,6 @@ These are the free and generally easy to produce 2-layer PCB design rules. You c
 </element>
 <element name="J36" library="SparkFun-Connectors" package="1X06_NO_SILK" value="" x="58.166" y="27.178" smashed="yes">
 <attribute name="NAME" x="56.896" y="28.575" size="0.6096" layer="25" font="vector" ratio="20"/>
-<attribute name="PROD_ID" value="CONN-08437" x="58.166" y="27.178" size="1.778" layer="27" font="vector" ratio="15" display="off"/>
 <attribute name="VALUE" x="56.896" y="25.146" size="0.6096" layer="27" font="vector" ratio="20"/>
 </element>
 <element name="C18" library="SparkFun-Capacitors" package="0603" value="0.1uF" x="60.706" y="38.608" smashed="yes" rot="R90">
@@ -9257,7 +9239,6 @@ These are the free and generally easy to produce 2-layer PCB design rules. You c
 </element>
 <element name="J39" library="SparkFun-Connectors" package="1X06_NO_SILK" value="" x="96.774" y="50.038" smashed="yes" rot="R180">
 <attribute name="NAME" x="98.044" y="48.641" size="0.6096" layer="25" font="vector" ratio="20" rot="R180"/>
-<attribute name="PROD_ID" value="CONN-08437" x="70.104" y="72.898" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="VALUE" x="98.044" y="52.07" size="0.6096" layer="27" font="vector" ratio="20" rot="R180"/>
 </element>
 <element name="I2C9" library="SparkFun-Jumpers" package="SMT-JUMPER_3_2-NC_TRACE_SILK" package3d_urn="urn:adsk.eagle:package:39289/1" value="JUMPER-SMT_3_2-NC_TRACE_SILK" x="90.424" y="33.528" smashed="yes" rot="MR0">
@@ -9336,7 +9317,6 @@ These are the free and generally easy to produce 2-layer PCB design rules. You c
 </element>
 <element name="J40" library="SparkFun-Connectors" package="1X06_NO_SILK" value="" x="84.074" y="27.178" smashed="yes">
 <attribute name="NAME" x="82.804" y="28.575" size="0.6096" layer="25" font="vector" ratio="20"/>
-<attribute name="PROD_ID" value="CONN-08437" x="84.074" y="27.178" size="1.778" layer="27" font="vector" ratio="15" display="off"/>
 <attribute name="VALUE" x="82.804" y="25.146" size="0.6096" layer="27" font="vector" ratio="20"/>
 </element>
 <element name="C20" library="SparkFun-Capacitors" package="0603" value="0.1uF" x="86.614" y="38.608" smashed="yes" rot="R90">
@@ -9399,7 +9379,6 @@ These are the free and generally easy to produce 2-layer PCB design rules. You c
 </element>
 <element name="J43" library="SparkFun-Connectors" package="1X06_NO_SILK" value="" x="122.682" y="50.038" smashed="yes" rot="R180">
 <attribute name="NAME" x="123.952" y="48.641" size="0.6096" layer="25" font="vector" ratio="20" rot="R180"/>
-<attribute name="PROD_ID" value="CONN-08437" x="96.012" y="72.898" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="VALUE" x="123.952" y="52.07" size="0.6096" layer="27" font="vector" ratio="20" rot="R180"/>
 </element>
 <element name="I2C10" library="SparkFun-Jumpers" package="SMT-JUMPER_3_2-NC_TRACE_SILK" package3d_urn="urn:adsk.eagle:package:39289/1" value="JUMPER-SMT_3_2-NC_TRACE_SILK" x="116.332" y="33.528" smashed="yes" rot="MR0">
@@ -9478,7 +9457,6 @@ These are the free and generally easy to produce 2-layer PCB design rules. You c
 </element>
 <element name="J44" library="SparkFun-Connectors" package="1X06_NO_SILK" value="" x="109.982" y="27.178" smashed="yes">
 <attribute name="NAME" x="108.712" y="28.575" size="0.6096" layer="25" font="vector" ratio="20"/>
-<attribute name="PROD_ID" value="CONN-08437" x="109.982" y="27.178" size="1.778" layer="27" font="vector" ratio="15" display="off"/>
 <attribute name="VALUE" x="108.712" y="25.146" size="0.6096" layer="27" font="vector" ratio="20"/>
 </element>
 <element name="C22" library="SparkFun-Capacitors" package="0603" value="0.1uF" x="112.522" y="38.608" smashed="yes" rot="R90">
@@ -9541,7 +9519,6 @@ These are the free and generally easy to produce 2-layer PCB design rules. You c
 </element>
 <element name="J47" library="SparkFun-Connectors" package="1X06_NO_SILK" value="" x="148.59" y="50.038" smashed="yes" rot="R180">
 <attribute name="NAME" x="149.86" y="48.641" size="0.6096" layer="25" font="vector" ratio="20" rot="R180"/>
-<attribute name="PROD_ID" value="CONN-08437" x="121.92" y="72.898" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="VALUE" x="149.86" y="52.07" size="0.6096" layer="27" font="vector" ratio="20" rot="R180"/>
 </element>
 <element name="I2C11" library="SparkFun-Jumpers" package="SMT-JUMPER_3_2-NC_TRACE_SILK" package3d_urn="urn:adsk.eagle:package:39289/1" value="JUMPER-SMT_3_2-NC_TRACE_SILK" x="142.24" y="33.528" smashed="yes" rot="MR0">
@@ -9620,7 +9597,6 @@ These are the free and generally easy to produce 2-layer PCB design rules. You c
 </element>
 <element name="J48" library="SparkFun-Connectors" package="1X06_NO_SILK" value="" x="135.89" y="27.178" smashed="yes">
 <attribute name="NAME" x="134.62" y="28.575" size="0.6096" layer="25" font="vector" ratio="20"/>
-<attribute name="PROD_ID" value="CONN-08437" x="135.89" y="27.178" size="1.778" layer="27" font="vector" ratio="15" display="off"/>
 <attribute name="VALUE" x="134.62" y="25.146" size="0.6096" layer="27" font="vector" ratio="20"/>
 </element>
 <element name="C24" library="SparkFun-Capacitors" package="0603" value="0.1uF" x="138.43" y="38.608" smashed="yes" rot="R90">
@@ -9683,7 +9659,6 @@ These are the free and generally easy to produce 2-layer PCB design rules. You c
 </element>
 <element name="J51" library="SparkFun-Connectors" package="1X06_NO_SILK" value="" x="19.05" y="75.946" smashed="yes" rot="R180">
 <attribute name="NAME" x="20.32" y="74.549" size="0.6096" layer="25" font="vector" ratio="20" rot="R180"/>
-<attribute name="PROD_ID" value="CONN-08437" x="-7.62" y="98.806" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="VALUE" x="20.32" y="77.978" size="0.6096" layer="27" font="vector" ratio="20" rot="R180"/>
 </element>
 <element name="I2C12" library="SparkFun-Jumpers" package="SMT-JUMPER_3_2-NC_TRACE_SILK" package3d_urn="urn:adsk.eagle:package:39289/1" value="JUMPER-SMT_3_2-NC_TRACE_SILK" x="12.7" y="59.436" smashed="yes" rot="MR0">
@@ -9762,7 +9737,6 @@ These are the free and generally easy to produce 2-layer PCB design rules. You c
 </element>
 <element name="J52" library="SparkFun-Connectors" package="1X06_NO_SILK" value="" x="6.35" y="53.086" smashed="yes">
 <attribute name="NAME" x="5.08" y="54.483" size="0.6096" layer="25" font="vector" ratio="20"/>
-<attribute name="PROD_ID" value="CONN-08437" x="6.35" y="53.086" size="1.778" layer="27" font="vector" ratio="15" display="off"/>
 <attribute name="VALUE" x="5.08" y="51.054" size="0.6096" layer="27" font="vector" ratio="20"/>
 </element>
 <element name="C26" library="SparkFun-Capacitors" package="0603" value="0.1uF" x="8.89" y="64.516" smashed="yes" rot="R90">
@@ -9825,7 +9799,6 @@ These are the free and generally easy to produce 2-layer PCB design rules. You c
 </element>
 <element name="J55" library="SparkFun-Connectors" package="1X06_NO_SILK" value="" x="44.958" y="75.946" smashed="yes" rot="R180">
 <attribute name="NAME" x="46.228" y="74.549" size="0.6096" layer="25" font="vector" ratio="20" rot="R180"/>
-<attribute name="PROD_ID" value="CONN-08437" x="18.288" y="98.806" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="VALUE" x="46.228" y="77.978" size="0.6096" layer="27" font="vector" ratio="20" rot="R180"/>
 </element>
 <element name="I2C13" library="SparkFun-Jumpers" package="SMT-JUMPER_3_2-NC_TRACE_SILK" package3d_urn="urn:adsk.eagle:package:39289/1" value="JUMPER-SMT_3_2-NC_TRACE_SILK" x="38.608" y="59.436" smashed="yes" rot="MR0">
@@ -9904,7 +9877,6 @@ These are the free and generally easy to produce 2-layer PCB design rules. You c
 </element>
 <element name="J56" library="SparkFun-Connectors" package="1X06_NO_SILK" value="" x="32.258" y="53.086" smashed="yes">
 <attribute name="NAME" x="30.988" y="54.483" size="0.6096" layer="25" font="vector" ratio="20"/>
-<attribute name="PROD_ID" value="CONN-08437" x="32.258" y="53.086" size="1.778" layer="27" font="vector" ratio="15" display="off"/>
 <attribute name="VALUE" x="30.988" y="51.054" size="0.6096" layer="27" font="vector" ratio="20"/>
 </element>
 <element name="C28" library="SparkFun-Capacitors" package="0603" value="0.1uF" x="34.798" y="64.516" smashed="yes" rot="R90">
@@ -9967,7 +9939,6 @@ These are the free and generally easy to produce 2-layer PCB design rules. You c
 </element>
 <element name="J59" library="SparkFun-Connectors" package="1X06_NO_SILK" value="" x="70.866" y="75.946" smashed="yes" rot="R180">
 <attribute name="NAME" x="72.136" y="74.549" size="0.6096" layer="25" font="vector" ratio="20" rot="R180"/>
-<attribute name="PROD_ID" value="CONN-08437" x="44.196" y="98.806" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="VALUE" x="72.136" y="77.978" size="0.6096" layer="27" font="vector" ratio="20" rot="R180"/>
 </element>
 <element name="I2C14" library="SparkFun-Jumpers" package="SMT-JUMPER_3_2-NC_TRACE_SILK" package3d_urn="urn:adsk.eagle:package:39289/1" value="JUMPER-SMT_3_2-NC_TRACE_SILK" x="64.516" y="59.436" smashed="yes" rot="MR0">
@@ -10046,7 +10017,6 @@ These are the free and generally easy to produce 2-layer PCB design rules. You c
 </element>
 <element name="J60" library="SparkFun-Connectors" package="1X06_NO_SILK" value="" x="58.166" y="53.086" smashed="yes">
 <attribute name="NAME" x="56.896" y="54.483" size="0.6096" layer="25" font="vector" ratio="20"/>
-<attribute name="PROD_ID" value="CONN-08437" x="58.166" y="53.086" size="1.778" layer="27" font="vector" ratio="15" display="off"/>
 <attribute name="VALUE" x="56.896" y="51.054" size="0.6096" layer="27" font="vector" ratio="20"/>
 </element>
 <element name="C30" library="SparkFun-Capacitors" package="0603" value="0.1uF" x="60.706" y="64.516" smashed="yes" rot="R90">
@@ -10109,7 +10079,6 @@ These are the free and generally easy to produce 2-layer PCB design rules. You c
 </element>
 <element name="J63" library="SparkFun-Connectors" package="1X06_NO_SILK" value="" x="96.774" y="75.946" smashed="yes" rot="R180">
 <attribute name="NAME" x="98.044" y="74.549" size="0.6096" layer="25" font="vector" ratio="20" rot="R180"/>
-<attribute name="PROD_ID" value="CONN-08437" x="70.104" y="98.806" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="VALUE" x="98.044" y="77.978" size="0.6096" layer="27" font="vector" ratio="20" rot="R180"/>
 </element>
 <element name="I2C15" library="SparkFun-Jumpers" package="SMT-JUMPER_3_2-NC_TRACE_SILK" package3d_urn="urn:adsk.eagle:package:39289/1" value="JUMPER-SMT_3_2-NC_TRACE_SILK" x="90.424" y="59.436" smashed="yes" rot="MR0">
@@ -10188,7 +10157,6 @@ These are the free and generally easy to produce 2-layer PCB design rules. You c
 </element>
 <element name="J64" library="SparkFun-Connectors" package="1X06_NO_SILK" value="" x="84.074" y="53.086" smashed="yes">
 <attribute name="NAME" x="82.804" y="54.483" size="0.6096" layer="25" font="vector" ratio="20"/>
-<attribute name="PROD_ID" value="CONN-08437" x="84.074" y="53.086" size="1.778" layer="27" font="vector" ratio="15" display="off"/>
 <attribute name="VALUE" x="82.804" y="51.054" size="0.6096" layer="27" font="vector" ratio="20"/>
 </element>
 <element name="C32" library="SparkFun-Capacitors" package="0603" value="0.1uF" x="86.614" y="64.516" smashed="yes" rot="R90">
@@ -10251,7 +10219,6 @@ These are the free and generally easy to produce 2-layer PCB design rules. You c
 </element>
 <element name="J67" library="SparkFun-Connectors" package="1X06_NO_SILK" value="" x="122.682" y="75.946" smashed="yes" rot="R180">
 <attribute name="NAME" x="123.952" y="74.549" size="0.6096" layer="25" font="vector" ratio="20" rot="R180"/>
-<attribute name="PROD_ID" value="CONN-08437" x="96.012" y="98.806" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="VALUE" x="123.952" y="77.978" size="0.6096" layer="27" font="vector" ratio="20" rot="R180"/>
 </element>
 <element name="I2C16" library="SparkFun-Jumpers" package="SMT-JUMPER_3_2-NC_TRACE_SILK" package3d_urn="urn:adsk.eagle:package:39289/1" value="JUMPER-SMT_3_2-NC_TRACE_SILK" x="116.332" y="59.436" smashed="yes" rot="MR0">
@@ -10330,7 +10297,6 @@ These are the free and generally easy to produce 2-layer PCB design rules. You c
 </element>
 <element name="J68" library="SparkFun-Connectors" package="1X06_NO_SILK" value="" x="109.982" y="53.086" smashed="yes">
 <attribute name="NAME" x="108.712" y="54.483" size="0.6096" layer="25" font="vector" ratio="20"/>
-<attribute name="PROD_ID" value="CONN-08437" x="109.982" y="53.086" size="1.778" layer="27" font="vector" ratio="15" display="off"/>
 <attribute name="VALUE" x="108.712" y="51.054" size="0.6096" layer="27" font="vector" ratio="20"/>
 </element>
 <element name="C34" library="SparkFun-Capacitors" package="0603" value="0.1uF" x="112.522" y="64.516" smashed="yes" rot="R90">
@@ -10393,7 +10359,6 @@ These are the free and generally easy to produce 2-layer PCB design rules. You c
 </element>
 <element name="J71" library="SparkFun-Connectors" package="1X06_NO_SILK" value="" x="148.59" y="75.946" smashed="yes" rot="R180">
 <attribute name="NAME" x="149.86" y="74.549" size="0.6096" layer="25" font="vector" ratio="20" rot="R180"/>
-<attribute name="PROD_ID" value="CONN-08437" x="121.92" y="98.806" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="VALUE" x="149.86" y="77.978" size="0.6096" layer="27" font="vector" ratio="20" rot="R180"/>
 </element>
 <element name="I2C17" library="SparkFun-Jumpers" package="SMT-JUMPER_3_2-NC_TRACE_SILK" package3d_urn="urn:adsk.eagle:package:39289/1" value="JUMPER-SMT_3_2-NC_TRACE_SILK" x="142.24" y="59.436" smashed="yes" rot="MR0">
@@ -10472,7 +10437,6 @@ These are the free and generally easy to produce 2-layer PCB design rules. You c
 </element>
 <element name="J72" library="SparkFun-Connectors" package="1X06_NO_SILK" value="" x="135.89" y="53.086" smashed="yes">
 <attribute name="NAME" x="134.62" y="54.483" size="0.6096" layer="25" font="vector" ratio="20"/>
-<attribute name="PROD_ID" value="CONN-08437" x="135.89" y="53.086" size="1.778" layer="27" font="vector" ratio="15" display="off"/>
 <attribute name="VALUE" x="134.62" y="51.054" size="0.6096" layer="27" font="vector" ratio="20"/>
 </element>
 <element name="C36" library="SparkFun-Capacitors" package="0603" value="0.1uF" x="138.43" y="64.516" smashed="yes" rot="R90">
@@ -10535,7 +10499,6 @@ These are the free and generally easy to produce 2-layer PCB design rules. You c
 </element>
 <element name="J75" library="SparkFun-Connectors" package="1X06_NO_SILK" value="" x="19.05" y="101.854" smashed="yes" rot="R180">
 <attribute name="NAME" x="20.32" y="100.457" size="0.6096" layer="25" font="vector" ratio="20" rot="R180"/>
-<attribute name="PROD_ID" value="CONN-08437" x="-7.62" y="124.714" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="VALUE" x="20.32" y="103.886" size="0.6096" layer="27" font="vector" ratio="20" rot="R180"/>
 </element>
 <element name="I2C18" library="SparkFun-Jumpers" package="SMT-JUMPER_3_2-NC_TRACE_SILK" package3d_urn="urn:adsk.eagle:package:39289/1" value="JUMPER-SMT_3_2-NC_TRACE_SILK" x="12.7" y="85.344" smashed="yes" rot="MR0">
@@ -10614,7 +10577,6 @@ These are the free and generally easy to produce 2-layer PCB design rules. You c
 </element>
 <element name="J76" library="SparkFun-Connectors" package="1X06_NO_SILK" value="" x="6.35" y="78.994" smashed="yes">
 <attribute name="NAME" x="5.08" y="80.391" size="0.6096" layer="25" font="vector" ratio="20"/>
-<attribute name="PROD_ID" value="CONN-08437" x="6.35" y="78.994" size="1.778" layer="27" font="vector" ratio="15" display="off"/>
 <attribute name="VALUE" x="5.08" y="76.962" size="0.6096" layer="27" font="vector" ratio="20"/>
 </element>
 <element name="C38" library="SparkFun-Capacitors" package="0603" value="0.1uF" x="8.89" y="90.424" smashed="yes" rot="R90">
@@ -10677,7 +10639,6 @@ These are the free and generally easy to produce 2-layer PCB design rules. You c
 </element>
 <element name="J79" library="SparkFun-Connectors" package="1X06_NO_SILK" value="" x="44.958" y="101.854" smashed="yes" rot="R180">
 <attribute name="NAME" x="46.228" y="100.457" size="0.6096" layer="25" font="vector" ratio="20" rot="R180"/>
-<attribute name="PROD_ID" value="CONN-08437" x="18.288" y="124.714" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="VALUE" x="46.228" y="103.886" size="0.6096" layer="27" font="vector" ratio="20" rot="R180"/>
 </element>
 <element name="I2C19" library="SparkFun-Jumpers" package="SMT-JUMPER_3_2-NC_TRACE_SILK" package3d_urn="urn:adsk.eagle:package:39289/1" value="JUMPER-SMT_3_2-NC_TRACE_SILK" x="38.608" y="85.344" smashed="yes" rot="MR0">
@@ -10756,7 +10717,6 @@ These are the free and generally easy to produce 2-layer PCB design rules. You c
 </element>
 <element name="J80" library="SparkFun-Connectors" package="1X06_NO_SILK" value="" x="32.258" y="78.994" smashed="yes">
 <attribute name="NAME" x="30.988" y="80.391" size="0.6096" layer="25" font="vector" ratio="20"/>
-<attribute name="PROD_ID" value="CONN-08437" x="32.258" y="78.994" size="1.778" layer="27" font="vector" ratio="15" display="off"/>
 <attribute name="VALUE" x="30.988" y="76.962" size="0.6096" layer="27" font="vector" ratio="20"/>
 </element>
 <element name="C40" library="SparkFun-Capacitors" package="0603" value="0.1uF" x="34.798" y="90.424" smashed="yes" rot="R90">
@@ -10819,7 +10779,6 @@ These are the free and generally easy to produce 2-layer PCB design rules. You c
 </element>
 <element name="J83" library="SparkFun-Connectors" package="1X06_NO_SILK" value="" x="70.866" y="101.854" smashed="yes" rot="R180">
 <attribute name="NAME" x="72.136" y="100.457" size="0.6096" layer="25" font="vector" ratio="20" rot="R180"/>
-<attribute name="PROD_ID" value="CONN-08437" x="44.196" y="124.714" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="VALUE" x="72.136" y="103.886" size="0.6096" layer="27" font="vector" ratio="20" rot="R180"/>
 </element>
 <element name="I2C20" library="SparkFun-Jumpers" package="SMT-JUMPER_3_2-NC_TRACE_SILK" package3d_urn="urn:adsk.eagle:package:39289/1" value="JUMPER-SMT_3_2-NC_TRACE_SILK" x="64.516" y="85.344" smashed="yes" rot="MR0">
@@ -10898,7 +10857,6 @@ These are the free and generally easy to produce 2-layer PCB design rules. You c
 </element>
 <element name="J84" library="SparkFun-Connectors" package="1X06_NO_SILK" value="" x="58.166" y="78.994" smashed="yes">
 <attribute name="NAME" x="56.896" y="80.391" size="0.6096" layer="25" font="vector" ratio="20"/>
-<attribute name="PROD_ID" value="CONN-08437" x="58.166" y="78.994" size="1.778" layer="27" font="vector" ratio="15" display="off"/>
 <attribute name="VALUE" x="56.896" y="76.962" size="0.6096" layer="27" font="vector" ratio="20"/>
 </element>
 <element name="C42" library="SparkFun-Capacitors" package="0603" value="0.1uF" x="60.706" y="90.424" smashed="yes" rot="R90">
@@ -10961,7 +10919,6 @@ These are the free and generally easy to produce 2-layer PCB design rules. You c
 </element>
 <element name="J87" library="SparkFun-Connectors" package="1X06_NO_SILK" value="" x="96.774" y="101.854" smashed="yes" rot="R180">
 <attribute name="NAME" x="98.044" y="100.457" size="0.6096" layer="25" font="vector" ratio="20" rot="R180"/>
-<attribute name="PROD_ID" value="CONN-08437" x="70.104" y="124.714" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="VALUE" x="98.044" y="103.886" size="0.6096" layer="27" font="vector" ratio="20" rot="R180"/>
 </element>
 <element name="I2C21" library="SparkFun-Jumpers" package="SMT-JUMPER_3_2-NC_TRACE_SILK" package3d_urn="urn:adsk.eagle:package:39289/1" value="JUMPER-SMT_3_2-NC_TRACE_SILK" x="90.424" y="85.344" smashed="yes" rot="MR0">
@@ -11040,7 +10997,6 @@ These are the free and generally easy to produce 2-layer PCB design rules. You c
 </element>
 <element name="J88" library="SparkFun-Connectors" package="1X06_NO_SILK" value="" x="84.074" y="78.994" smashed="yes">
 <attribute name="NAME" x="82.804" y="80.391" size="0.6096" layer="25" font="vector" ratio="20"/>
-<attribute name="PROD_ID" value="CONN-08437" x="84.074" y="78.994" size="1.778" layer="27" font="vector" ratio="15" display="off"/>
 <attribute name="VALUE" x="82.804" y="76.962" size="0.6096" layer="27" font="vector" ratio="20"/>
 </element>
 <element name="C44" library="SparkFun-Capacitors" package="0603" value="0.1uF" x="86.614" y="90.424" smashed="yes" rot="R90">
@@ -11103,7 +11059,6 @@ These are the free and generally easy to produce 2-layer PCB design rules. You c
 </element>
 <element name="J91" library="SparkFun-Connectors" package="1X06_NO_SILK" value="" x="122.682" y="101.854" smashed="yes" rot="R180">
 <attribute name="NAME" x="123.952" y="100.457" size="0.6096" layer="25" font="vector" ratio="20" rot="R180"/>
-<attribute name="PROD_ID" value="CONN-08437" x="96.012" y="124.714" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="VALUE" x="123.952" y="103.886" size="0.6096" layer="27" font="vector" ratio="20" rot="R180"/>
 </element>
 <element name="I2C22" library="SparkFun-Jumpers" package="SMT-JUMPER_3_2-NC_TRACE_SILK" package3d_urn="urn:adsk.eagle:package:39289/1" value="JUMPER-SMT_3_2-NC_TRACE_SILK" x="116.332" y="85.344" smashed="yes" rot="MR0">
@@ -11182,7 +11137,6 @@ These are the free and generally easy to produce 2-layer PCB design rules. You c
 </element>
 <element name="J92" library="SparkFun-Connectors" package="1X06_NO_SILK" value="" x="109.982" y="78.994" smashed="yes">
 <attribute name="NAME" x="108.712" y="80.391" size="0.6096" layer="25" font="vector" ratio="20"/>
-<attribute name="PROD_ID" value="CONN-08437" x="109.982" y="78.994" size="1.778" layer="27" font="vector" ratio="15" display="off"/>
 <attribute name="VALUE" x="108.712" y="76.962" size="0.6096" layer="27" font="vector" ratio="20"/>
 </element>
 <element name="C46" library="SparkFun-Capacitors" package="0603" value="0.1uF" x="112.522" y="90.424" smashed="yes" rot="R90">
@@ -11245,7 +11199,6 @@ These are the free and generally easy to produce 2-layer PCB design rules. You c
 </element>
 <element name="J95" library="SparkFun-Connectors" package="1X06_NO_SILK" value="" x="148.59" y="101.854" smashed="yes" rot="R180">
 <attribute name="NAME" x="149.86" y="100.457" size="0.6096" layer="25" font="vector" ratio="20" rot="R180"/>
-<attribute name="PROD_ID" value="CONN-08437" x="121.92" y="124.714" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="VALUE" x="149.86" y="103.886" size="0.6096" layer="27" font="vector" ratio="20" rot="R180"/>
 </element>
 <element name="I2C23" library="SparkFun-Jumpers" package="SMT-JUMPER_3_2-NC_TRACE_SILK" package3d_urn="urn:adsk.eagle:package:39289/1" value="JUMPER-SMT_3_2-NC_TRACE_SILK" x="142.24" y="85.344" smashed="yes" rot="MR0">
@@ -11324,7 +11277,6 @@ These are the free and generally easy to produce 2-layer PCB design rules. You c
 </element>
 <element name="J96" library="SparkFun-Connectors" package="1X06_NO_SILK" value="" x="135.89" y="78.994" smashed="yes">
 <attribute name="NAME" x="134.62" y="80.391" size="0.6096" layer="25" font="vector" ratio="20"/>
-<attribute name="PROD_ID" value="CONN-08437" x="135.89" y="78.994" size="1.778" layer="27" font="vector" ratio="15" display="off"/>
 <attribute name="VALUE" x="134.62" y="76.962" size="0.6096" layer="27" font="vector" ratio="20"/>
 </element>
 <element name="C48" library="SparkFun-Capacitors" package="0603" value="0.1uF" x="138.43" y="90.424" smashed="yes" rot="R90">
