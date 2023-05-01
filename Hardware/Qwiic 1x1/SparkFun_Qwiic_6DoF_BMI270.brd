@@ -216,8 +216,6 @@
 <rectangle x1="12.3825" y1="13.462" x2="12.5095" y2="13.716" layer="41"/>
 <circle x="3.556" y="17.78" radius="0.0635" width="0.254" layer="21"/>
 <circle x="3.556" y="17.78" radius="0.508" width="0.254" layer="21"/>
-<wire x1="1.651" y1="18.415" x2="1.651" y2="16.51" width="0.254" layer="21" style="shortdash"/>
-<wire x1="3.302" y1="20.193" x2="5.207" y2="20.193" width="0.254" layer="21" style="shortdash"/>
 <polygon width="0.254" layer="21">
 <vertex x="1.651" y="16.51"/>
 <vertex x="2.032" y="17.145"/>
@@ -251,8 +249,6 @@ Thickness: 1.6mm
 Two layer design
 Finish: Lead Free HASL</text>
 <circle x="3.556" y="16.51" radius="0.508" width="0.254" layer="22"/>
-<wire x1="1.397" y1="17.145" x2="1.397" y2="15.24" width="0.254" layer="22" style="shortdash"/>
-<wire x1="3.302" y1="18.923" x2="5.207" y2="18.923" width="0.254" layer="22" style="shortdash"/>
 <polygon width="0.254" layer="22">
 <vertex x="1.397" y="15.24"/>
 <vertex x="1.016" y="15.875"/>
@@ -286,6 +282,14 @@ Finish: Lead Free HASL</text>
 <dimension x1="0" y1="0" x2="0" y2="1.27" x3="-5.08" y3="0.635" textsize="1.778" textratio="15" layer="47" unit="inch"/>
 <dimension x1="0" y1="0" x2="0" y2="24.13" x3="-16.51" y3="12.065" textsize="1.778" textratio="15" layer="47" unit="inch"/>
 <rectangle x1="12.827" y1="5.969" x2="13.208" y2="6.223" layer="41"/>
+<wire x1="4.318" y1="20.193" x2="5.207" y2="20.193" width="0.254" layer="21" style="shortdash"/>
+<wire x1="3.302" y1="20.193" x2="3.556" y2="20.193" width="0.254" layer="21" style="shortdash"/>
+<wire x1="1.651" y1="17.399" x2="1.651" y2="16.51" width="0.254" layer="21" style="shortdash"/>
+<wire x1="1.651" y1="18.415" x2="1.651" y2="18.161" width="0.254" layer="21" style="shortdash"/>
+<wire x1="4.318" y1="18.923" x2="5.207" y2="18.923" width="0.254" layer="22" style="shortdash"/>
+<wire x1="3.302" y1="18.923" x2="3.556" y2="18.923" width="0.254" layer="22" style="shortdash"/>
+<wire x1="1.397" y1="16.129" x2="1.397" y2="15.24" width="0.254" layer="22" style="shortdash"/>
+<wire x1="1.397" y1="17.145" x2="1.397" y2="16.891" width="0.254" layer="22" style="shortdash"/>
 </plain>
 <libraries>
 <library name="SparkFun-LED">
