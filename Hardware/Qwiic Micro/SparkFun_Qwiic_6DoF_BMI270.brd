@@ -257,6 +257,9 @@ Finish: Lead Free HASL</text>
 <wire x1="5.969" y1="4.953" x2="5.969" y2="4.572" width="0.1524" layer="22" style="shortdash"/>
 <wire x1="4.318" y1="4.191" x2="5.334" y2="4.191" width="0.1524" layer="22" style="shortdash"/>
 <wire x1="3.429" y1="4.191" x2="3.81" y2="4.191" width="0.1524" layer="22" style="shortdash"/>
+<circle x="5.969" y="8.382" radius="0.127" width="0.254" layer="21"/>
+<wire x1="1.778" y1="6.985" x2="3.302" y2="6.985" width="0.1524" layer="21"/>
+<wire x1="4.318" y1="6.985" x2="5.842" y2="6.985" width="0.1524" layer="21"/>
 </plain>
 <libraries>
 <library name="SparkFun-LED">
@@ -3428,7 +3431,7 @@ These are the minimums &lt;a href=&quot;https://jlcpcb.com/capabilities/Capabili
 <element name="U$5" library="output" package="#ADR#0" value="" x="6.731" y="10.795" smashed="yes" rot="MR90"/>
 <element name="U$6" library="output" package="#0X68#0" value="" x="4.445" y="9.906" smashed="yes" rot="MR0"/>
 <element name="U$18" library="output" package="#0X69#0" value="" x="4.445" y="11.684" smashed="yes" rot="MR0"/>
-<element name="U$21" library="output" package="BMI2700" value="" x="3.81" y="13.97" smashed="yes"/>
+<element name="U$21" library="output" package="BMI2700" value="" x="3.8608" y="13.97" smashed="yes"/>
 <element name="U$33" library="SparkFun-Aesthetics" package="ORDERING_INSTRUCTIONS" value="" x="15.24" y="50.8" smashed="yes"/>
 <element name="U$79" library="output" package="X0" value="" x="6.858" y="3.556" smashed="yes" rot="MR0"/>
 <element name="U$80" library="output" package="Y0" value="" x="3.683" y="3.048" smashed="yes" rot="MR0"/>
