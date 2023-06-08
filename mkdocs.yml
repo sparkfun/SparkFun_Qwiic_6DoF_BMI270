@@ -128,7 +128,7 @@ plugins:
 #      cover_subtitle: none
 #      cover_logo: assets/img/sfe_logo_sm.png
 #      exclude_pages: [ "print_pdf", "file_issue", "contribute" ]
-#      output_path: assets/SparkFun_6DoF_LSM6DSV16X-hookup_guide.pdf
+#      output_path: assets/SparkFun_6DoF_BMI270-hookup_guide.pdf
 
 # Included Markdown extensions
 markdown_extensions:

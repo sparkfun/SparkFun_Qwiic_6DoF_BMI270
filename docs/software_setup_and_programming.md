@@ -6,7 +6,7 @@
 SparkFun has written a library to work with the SparkFun LSM6DSV16X Boards. You can obtain this library through the Arduino Library Manager by searching for "LSM6DSV16X" and installing the latest version. If you prefer downloading libraries manually, you can grab them from the GitHub Repository.
 
 <center>
-	[SparkFun LSM6DSV16X Arduino Library GitHub](https://github.com/sparkfun/SparkFun_LSM6DSV16X_Arduino_Library/archive/refs/heads/main.zip){ .md-button .md-button--primary }
+	[SparkFun LSM6DSV16X Arduino Library GitHub](https://github.com/sparkfun/SparkFun_BMI270_Arduino_Library/archive/refs/heads/main.zip){ .md-button .md-button--primary }
 </center>
 
 

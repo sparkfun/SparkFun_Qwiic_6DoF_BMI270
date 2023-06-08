@@ -1,19 +1,19 @@
 For more information, check out the resources below.
 
-SparkFun 6DoF LSM6DSV16X 1"x1" Board: 
+SparkFun 6DoF BMI270 1"x1" Board: 
 
-* [Schematic (PDF)](assets/BoardFiles/SparkFun_6DoF_LSM6DSV16X-Schematic.pdf){:target="_blank"}
-* [Eagle Files](assets/BoardFiles/SparkFun_6DoF_LSM6DSV16X-EagleFiles.zip)
-* [Board Outline (PNG)](assets/BoardFiles/SparkFun_6DoF_LSM6DSV16X-BoardOutline.png){:target="_blank"}
-* [GitHub Hardware Repo](https://github.com/sparkfun/SparkFun_6DoF_LSM6DSV16X){:target="_blank"}
+* [Schematic (PDF)](assets/BoardFiles/SparkFun_Qwiic_6DoF_BMI270-Schematic.pdf){:target="_blank"}
+* [Eagle Files](assets/BoardFiles/SparkFun_Qwiic_6DoF_BMI270-EagleFiles.zip)
+* [Board Outline (PNG)](assets/BoardFiles/SparkFun_Qwiic_6DoF_BMI270-BoardOutline.png){:target="_blank"}
+* [GitHub Hardware Repo](https://github.com/sparkfun/SparkFun_Qwiic_6DoF_BMI270){:target="_blank"}
 
 
-SparkFun 6DoF LSM6DSV16X Micro Board: 
+SparkFun 6DoF BMI270 Micro Board: 
 
-* [Schematic (PDF)](assets/BoardFiles/SparkFun_Micro_6DoF_LSM6DSV16X-Schematic.pdf){:target="_blank"}
-* [Eagle Files](assets/BoardFiles/SparkFun_Micro_6DoF_LSM6DSV16X-EagleFiles.zip)
-* [Board Outline (PNG)](assets/BoardFiles/SparkFun_Micro_6DoF_LSM6DSV16X-BoardOutline.png){:target="_blank"}
-* [GitHub Hardware Repo](https://github.com/sparkfun/SparkFun_6DoF_LSM6DSV16X){:target="_blank"}
+* [Schematic (PDF)](assets/BoardFiles/SparkFun_Qwiic_6DoF_Micro_BMI270-Schematic.pdf){:target="_blank"}
+* [Eagle Files](assets/BoardFiles/SparkFun_Qwiic_6DoF_Micro_BMI270-EagleFiles.zip)
+* [Board Outline (PNG)](assets/BoardFiles/SparkFun_Qwiic_6DoF_Micro_BMI270-BoardOutline.png){:target="_blank"}
+* [GitHub Hardware Repo](https://github.com/sparkfun/SparkFun_Qwiic_6DoF_BMI270){:target="_blank"}
 
 Or check out other [Qwiic Sensor Tutorials](https://learn.sparkfun.com/tutorials/tags/qwiic):
 
