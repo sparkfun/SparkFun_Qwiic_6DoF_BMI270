@@ -29,8 +29,8 @@ Repository Contents
 
 Documentation
 --------------
-* **[Library](https://github.com/sparkfun/SparkFun_BMI270_Arduino_Library)** - Arduino library for the SparkFun_Qwiic_6DoF_BMI270.
-* **[Hookup Guide](Learn.SparkFun URL)** - Basic hookup guide for the <PRODUCT NAME>.
+* **[Library](https://github.com/sparkfun/SparkFun_BMI270_Arduino_Library)** - Arduino library for the SparkFun 6DoF IMU Breakout - BMI270 (Qwiic) and SparkFun Micro 6DoF IMU Breakout - BMI270 (Qwiic).
+* **[Hookup Guide](http://docs.sparkfun.com/SparkFun_Qwiic_6DoF_BMI270/)** - Basic hookup guide for the SparkFun 6DoF IMU Breakout - BMI270 (Qwiic) and SparkFun Micro 6DoF IMU Breakout - BMI270 (Qwiic). 
 
 License Information
 -------------------
