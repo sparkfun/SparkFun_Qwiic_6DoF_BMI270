@@ -1,15 +1,15 @@
 # Contribute: Make an Augmentation!
-Spot an improvement opportunity? Feel free to contribute to our open-source design and documentation. <a href="https://github.com/sparkfun/SparkFun_6DoF_LSM6DSV16X/pulls" alt="Pull Requests"><img src="https://img.shields.io/github/issues-pr/sparkfun/https://github.com/sparkfun/SparkFun_6DoF_LSM6DSV16X.svg" /></a>
+Spot an improvement opportunity? Feel free to contribute to our open-source design and documentation. <a href="https://github.com/sparkfun/SparkFun_Qwiic_6DoF_BMI270/pulls" alt="Pull Requests"><img src="https://img.shields.io/github/issues-pr/sparkfun/SparkFun_6DoF_BMI270.svg" /></a>
 
 
 ## :material-file-document-multiple:&nbsp;Improve our Documentation
 All of this documentation can be modified by you! Please help us make it better.
 
-* These pages are contained in the [`docs` folder](https://github.com/sparkfun/SparkFun_6DoF_LSM6DSV16X/tree/main/docs) of the [SparkFun 6DoF - LSM6DSV16X (Qwiic) repository](https://github.com/sparkfun/SparkFun_6DoF_LSM6DSV16X).
+* These pages are contained in the [`docs` folder](https://github.com/sparkfun/SparkFun_Qwiic_6DoF_BMI270/tree/main/docs) of the [SparkFun 6DoF - BMI270 (Qwiic) repository](https://github.com/sparkfun/SparkFun_Qwiic_6DoF_BMI270).
 
 ### Submit a Correction
 
-1. With a GitHub account, [fork this repository](https://github.com/sparkfun/SparkFun_6DoF_LSM6DSV16X/fork).
+1. With a GitHub account, [fork this repository](https://github.com/sparkfun/SparkFun_Qwiic_6DoF_BMI270/fork).
 2. Add your corrections or improvements to the markdown file.
 3. File a pull request with your changes, and enjoy making the ~~words~~ ~~worlds~~ world a better place.
 	* Once received, the documentation specialist will automatically be notified.
@@ -18,9 +18,9 @@ All of this documentation can be modified by you! Please help us make it better.
 ## :material-cog:&nbsp;Improve our Hardware Design
 All of our designs are open-source! Please help us make it better.
 
-* Our board design files are contained in the [`Hardware` folder](https://github.com/sparkfun/SparkFun_6DoF_LSM6DSV16X/tree/main/Hardware) of the [SparkFun 6DoF - LSM6DSV16X (Qwiic) repository](https://github.com/sparkfun/SparkFun_6DoF_LSM6DSV16X).
+* Our board design files are contained in the [`Hardware` folder](https://github.com/sparkfun/SparkFun_Qwiic_6DoF_BMI270/tree/main/Hardware) of the [SparkFun Qwiic 6DoF BMI270 repository](https://github.com/sparkfun/SparkFun_Qwiic_6DoF_BMI270).
 
-1. With a GitHub account, [fork this repository](https://github.com/sparkfun/SparkFun_6DoF_LSM6DSV16X/fork).
+1. With a GitHub account, [fork this repository](https://github.com/sparkfun/SparkFun_Qwiic_6DoF_BMI270/fork).
 2. Add your design augmentation(s)
 3. File a pull request with your changes, and enjoy making the ~~words~~ ~~worlds~~ world a better place.
 	1. Once received, the engineer in charge of the original design will automatically be notified.
@@ -34,6 +34,6 @@ All of our designs are open-source! Please help us make it better.
 ## Contributors&nbsp;:clap:
 Let's provide some recognition to the contributors for this project!
 
-![GitHub Contributors Image](https://contrib.rocks/image?repo=sparkfun)
+![GitHub Contributors Image](https://contrib.rocks/image?repo=sparkfun/SparkFun_Three_Phase_Motor_Driver-TMC6300)
 <br>
-<a href="https://github.com/sparkfun/SparkFun_6DoF_LSM6DSV16X/pulls" alt="Pull Requests"><img src="https://github.com/sparkfun/SparkFun_6DoF_LSM6DSV16X.svg" /></a>
+<a href="https://github.com/sparkfun/SparkFun_Qwiic_6DoF_BMI270/pulls" alt="Pull Requests"><img src="https://img.shields.io/github/contributors/sparkfun/SparkFun_Qwiic_6DoF_BMI270.svg" /></a>

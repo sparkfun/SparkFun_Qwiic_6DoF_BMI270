@@ -67,11 +67,11 @@ To follow along with this tutorial, you will need the following materials. You m
 <!--   card 3 -->
   <article class="card">
 	<div class="card-header">
-		<a href="https://www.sparkfun.com/products/15123"><center><b>SparkFun RedBoard Qwiic</b><br /> DEV-14743</center></a>
+		<a href="https://www.sparkfun.com/products/15663"><center><b>SparkFun ESP32 Thing Plus</b><br /> WRL-15663</center></a>
 	</div>    
     <div class="card-content">
-		<a href="https://www.sparkfun.com/products/15123">
-			<img alt="SparkFun RedBoard Qwiic" src="https://cdn.sparkfun.com/assets/parts/1/3/4/9/2/15123-SparkFun_RedBoard_Qwiic-01a.jpg" >
+		<a href="https://www.sparkfun.com/products/15663">
+			<img alt="SparkFun RedBoard Qwiic" src="https://cdn.sparkfun.com/assets/parts/1/4/2/4/1/15663-SparkFun_Thing_Plus_-_ESP32_WROOM-01.jpg" >
 		</a>
    </div><!-- .card-content -->
   </article>
@@ -91,15 +91,14 @@ To follow along with this tutorial, you will need the following materials. You m
 <!--   card 5 -->
   <article class="card">
 	<div class="card-header">
-		<a href="https://www.sparkfun.com/products/14743"><center><b>USB 3.1 Cable A to C - 3 Foot</b><br /> CAB-14743</center></a>
+		<a href="https://www.sparkfun.com/products/10215"><center><b>USB micro-B Cable - 6 Foot</b><br /> CAB-10215</center></a>
 	</div>    
     <div class="card-content">
-		<a href="https://www.sparkfun.com/products/14743">
-			<img alt="USB 3.1 Cable A to C - 3 Foot" src="https://cdn.sparkfun.com/assets/parts/1/2/9/7/2/14743-USB_3.1_Cable_A_to_C_-_3_Foot-01.jpg" >
+		<a href="https://www.sparkfun.com/products/10215">
+			<img alt="USB micro-B Cable - 6 Foot" src="https://cdn.sparkfun.com/assets/parts/4/5/5/8/10215-01.jpg" >
 		</a>
    </div><!-- .card-content -->
   </article>
-
 
 
   </section>
