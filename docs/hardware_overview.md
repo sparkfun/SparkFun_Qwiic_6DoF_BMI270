@@ -1,10 +1,8 @@
 ###Accelerometer - BMI270
 
-The BMI270 
-
 The ultra-low power BMI270 is an IMU optimized for wearables providing precise acceleration, angular rate measurement and intelligent on-chip motion-triggered interrupt features.
 
-The 6-axis sensor combines a 16-bit tri-axial gyroscope and a 16-bit tri-axial accelerometer featuring Bosch’s automotive-proven gyroscope technology. BMI270 includes several functionalities such as an integrated plug-and-play step counter/detector for wrist-worn devices. Moreover, the IMU is suitable for hearables, smart clothes, smart shoes, smart glasses and ankle bands.
+The 6-axis sensor combines a 16-bit tri-axial gyroscope and a 16-bit tri-axial accelerometer featuring Bosch’s automotive-proven gyroscope technology. BMI270 includes several functionalities such as an integrated plug-and-play step counter/detector and gesture detection for wrist-worn devices. Moreover, the IMU is suitable for hearables, smart clothes, smart shoes, smart glasses and ankle bands.
 
 
 <div class="grid.cards.desc" markdown>
@@ -89,7 +87,7 @@ Primary SPI functionality has been broken out to the highlighted pins below.
 <figcaption markdown>BMI270 SPI Pins</figcaption>
 </figure>
 
-
+SCL goes to SCK, SDA goes to PICO, ADR goes to POCI, and CS goes to CS
 
 #### Auxiliary Interface 
 
@@ -160,6 +158,8 @@ Like our other Qwiic boards, the Qwiic 6DoF - BMI270 boards come equipped with p
 ####I<sup>2</sup>C Address
 
 The SparkFun 6DoF - BMI270 (Qwiic) boards have a default I<sup>2</sup>C address of 0x68, but by cutting the address jumper on the back of the board, you can select 0x69 (GND) or SPI (fully open). 
+
+0x68 (default) is actually the GND side, 0x69 is the 3.3V side
 
 <div class="grid.cards.desc" markdown>
 
