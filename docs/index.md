@@ -9,7 +9,7 @@
 [![SparkFun 6DoF IMU Breakout - BMI270 (Qwiic)](https://cdn.sparkfun.com/assets/parts/2/2/4/2/9/22397_1_1.jpg){ width=90% }](https://www.sparkfun.com/products/22397)
 
 
-The [SparkFun 6DoF IMU Breakout - BMI270 (Qwiic)](https://www.sparkfun.com/products/22397) is a Qwiic enabled board based
+The [SparkFun 6DoF IMU Breakout - BMI270 (Qwiic)](https://www.sparkfun.com/products/22397) is a Qwiic enabled board based on the ultra-low power BMI270 from Bosch. This chip is a highly integrated, low power IMU designed for wearable, smart clothing and AR/VR applications. Not only does the BMI270 comprise a fast and sensitive accelerometer and gyro pair, but it also contains a number of intelligent, on-chip motion-triggered interrupt features.  
 
 <center>
 [Purchase from SparkFun :fontawesome-solid-cart-plus:](https://www.sparkfun.com/products/22397){ .md-button .md-button--primary }
