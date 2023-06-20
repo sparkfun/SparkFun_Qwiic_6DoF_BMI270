@@ -1,6 +1,10 @@
 
 The Arduino Library for the SparkFun 6DoF BMI270 (Qwiic) comes with a slew of examples to get you going. Here we'll just look at a few. 
 
+!!! attention
+    <p>The BMI270 chip requires an 8kb file to be flashed to memory on the controller. Make sure that whatever controlling board you use, it has enough space. </p>
+
+
 ###Example 1: Basic Readings
 
 This first example just does some basic measurements. To find Example 1, go to **File** > **Examples** > **SparkFun BMI270 Arduino Library** > **Example01_BasicReadingsI2C**:
@@ -88,10 +92,9 @@ https://raw.githubusercontent.com/sparkfun/SparkFun_BMI270_Arduino_Library/main/
 The wiring for this example is fairly simple. Use the Qwiic connector as normal, and then you'll need to connect your INT1 pin to pin 5/SCK on the ESP32 Thing Plus. Here's what it looks like:
 
 <figure markdown>
-[![BMI270 Arduino Example 12](assets/imgs/Example12_WiringTake2.jpg){ width="90%" }](assets/imgs/Example12_WiringTake2.jpg "Click to enlarge")
+[![BMI270 Arduino Example 12](assets/imgs/Example12_Hookup.jpg){ width="90%" }](assets/imgs/Example12_Hookup.jpg "Click to enlarge")
 <figcaption markdown>Example 12</figcaption>
 </figure>
-
 
 Once you get the correct port and board selected and the code is uploaded, you should see something like the following: 
 
