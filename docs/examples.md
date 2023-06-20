@@ -19,12 +19,8 @@ Alternatively, you can expand the link below and copy and paste the code into a 
 
 ??? "Example 1 Arduino Code"
 	```
-	--8<-- "https://raw.githubusercontent.com/sparkfun/SparkFun_STTS22H_Arduino_Library/main/examples/example1-basic/example1-basic.ino"
+	--8<-- "https://raw.githubusercontent.com/sparkfun/SparkFun_BMI270_Arduino_Library/main/examples/Example01_BasicReadingsI2C/Example01_BasicReadingsI2C.ino"
 	```
-
-<!-- 
-	https://raw.githubusercontent.com/sparkfun/SparkFun_BMI270_Arduino_Library/main/examples/Example01_BasicReadingsI2C/Example01_BasicReadingsI2C.ino
--->
 
 Make sure you've selected the correct board and port in the Tools menu and then hit the upload button. Once the code has finished uploading, go ahead and open a [Serial Monitor](https://learn.sparkfun.com/tutorials/terminal-basics). You should see something similar to the following. 
 
@@ -48,13 +44,9 @@ Alternatively, you can expand the link below and copy and paste the code into a 
 
 ??? "Example 6 Arduino Code"
 	```
-	--8<-- "https://raw.githubusercontent.com/sparkfun/SparkFun_STTS22H_Arduino_Library/main/examples/example1-basic/example1-basic.ino"
+	--8<-- "https://raw.githubusercontent.com/sparkfun/SparkFun_BMI270_Arduino_Library/main/examples/Example06_CalibrationNVM/Example06_CalibrationNVM.ino"
 	```
 
-
-<!-- 
-	https://raw.githubusercontent.com/sparkfun/SparkFun_BMI270_Arduino_Library/main/examples/Example06_CalibrationNVM/Example06_CalibrationNVM.ino
--->
 
 Again, make sure you've selected the correct board and port in the Tools menu and then hit the upload button. Once the code has finished uploading, go ahead and open a [Serial Monitor](https://learn.sparkfun.com/tutorials/terminal-basics). You should see something similar to the following.
 
@@ -63,7 +55,7 @@ Again, make sure you've selected the correct board and port in the Tools menu an
 <figcaption markdown>Example 6 Output</figcaption>
 </figure>
 
-!!! attention
+!!! warning
 	This chip only allows a total of 14 writes. Be mindful of this limit when recalibrating. 
 
 
@@ -81,13 +73,8 @@ Alternatively, you can expand the link below and copy and paste the code into a 
 
 ??? "Example 12 Arduino Code"
 	```
-	--8<-- "https://raw.githubusercontent.com/sparkfun/SparkFun_STTS22H_Arduino_Library/main/examples/example1-basic/example1-basic.ino"
+	--8<-- "https://raw.githubusercontent.com/sparkfun/SparkFun_BMI270_Arduino_Library/main/examples/Example12_StepCounter/Example12_StepCounter.ino"
 	```
-
-<!-- 
-https://raw.githubusercontent.com/sparkfun/SparkFun_BMI270_Arduino_Library/main/examples/Example12_StepCounter/Example12_StepCounter.ino
-
--->
 
 The wiring for this example is fairly simple. Use the Qwiic connector as normal, and then you'll need to connect your INT1 pin to pin 5/SCK on the ESP32 Thing Plus. Here's what it looks like:
 
