@@ -11,12 +11,8 @@ SparkFun has written a library to work with the SparkFun Qwiic 6DoF BMI270 Board
 
 
 
-
-
-
-
-
-
+!!! attention
+	Optical Image Stabilization (OIS) has not been implemented in this library. If you wish to use this functionality, please refer to the [datasheet](assets/BoardFiles/BMI270-Datasheet.pdf){:target="_blank"}.
 
 
 
