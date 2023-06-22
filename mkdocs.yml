@@ -114,9 +114,12 @@ theme:
       # Permalink icon
       link: octicons/link-16
 
-# Adds PDF icon to download hookup guide
-  custom_dir: docs/overrides
+  # Adds overrides for stylesheets, html, etc.
+  custom_dir: overrides
 
+# Configures styling for PDF rendering and webpage layout
+extra_css:
+  - stylesheet/extra.css
 
 # Included MkDocs plugins
 # Add the installation of any new plugins to the ./github/workflows/mkdocs.yml file also
@@ -161,8 +164,13 @@ markdown_extensions:
       options:
         custom_icons:
           - overrides/.icons
+  - toc:
+      permalink: ''
 
 extra:
+# Configures the hperlink for the logo in the header
+  homepage: https://www.sparkfun.com
+# Configures social icons in the footer
   social:
     - icon: fontawesome/brands/youtube
       link: https://www.youtube.com/sparkfun
@@ -177,7 +185,7 @@ extra:
 
 # Configures styling for PDF rendering and webpage layout
 extra_css:
-  - overrides/extra.css
+  - stylesheet/extra.css
 
 nav:
   - Hookup Guide:
@@ -186,9 +194,8 @@ nav:
     - Hardware Assembly: hardware_assembly.md
     - Software Setup and Programming: software_setup_and_programming.md
     - Examples: examples.md
-  - Hardware Resources:
-    - Resources: resources_and_going_further.md
+  - Resources: resources_and_going_further.md
   - Support:
     - Troubleshooting: troubleshooting.md
-    - Issues: file_issue.md
+    - Submit Issues: file_issue.md
     - Contributing: contribute.md
