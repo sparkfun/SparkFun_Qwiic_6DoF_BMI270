@@ -34,114 +34,83 @@ The [SparkFun Micro 6DoF IMU Breakout - BMI270 (Qwiic)](https://www.sparkfun.com
 
 To follow along with this tutorial, you will need the following materials. You may not need everything though depending on what you have. Add it to your cart, read through the guide, and adjust the cart as necessary.
 
-<section class="cards">
-
-<!--   card 1 -->
-  <article class="card">
-	<div class="card-header">
-		<a href="https://www.sparkfun.com/products/22397"><center><b>SparkFun 6DoF IMU Breakout - BMI270 (Qwiic)</b><br />SEN-22397</center></a>
-	</div>    
-    <div class="card-content">
-		<a href="https://www.sparkfun.com/products/22397">
-			<img alt="SparkFun 6DoF IMU Breakout - BMI270 (Qwiic)" src="https://cdn.sparkfun.com/assets/parts/2/2/4/2/9/22397_1_1.jpg" >
-		</a>
-	<!-- 
-		<div class="card-footer">
-			<button class="button1"><a href="https://www.sparkfun.com/products/21772" style="color: #ffffff">Purchase From SparkFun <i class="fa fa-cart-plus"></i></a></button>
-		</div> -->
-   </div><!-- .card-content -->
-  </article>
-
-<!--   card 2 -->
-  <article class="card">
-	<div class="card-header">
-		<a href="https://www.sparkfun.com/products/22398"><center><b>SparkFun Micro 6DoF IMU Breakout - BMI270 (Qwiic)</b><br /> SEN-22398</center></a>
-	</div>    
-    <div class="card-content">
-		<a href="https://www.sparkfun.com/products/22398">
-			<img alt="SparkFun Micro 6DoF IMU Breakout - BMI270 (Qwiic)" src="https://cdn.sparkfun.com/assets/parts/2/2/4/3/0/22398_1_1.jpg" >
-		</a>
-   </div><!-- .card-content -->
-  </article>
-
-<!--   card 3 -->
-  <article class="card">
-	<div class="card-header">
-		<a href="https://www.sparkfun.com/products/15663"><center><b>SparkFun ESP32 Thing Plus</b><br /> WRL-15663</center></a>
-	</div>    
-    <div class="card-content">
-		<a href="https://www.sparkfun.com/products/15663">
-			<img alt="SparkFun RedBoard Qwiic" src="https://cdn.sparkfun.com/assets/parts/1/4/2/4/1/15663-SparkFun_Thing_Plus_-_ESP32_WROOM-01.jpg" >
-		</a>
-   </div><!-- .card-content -->
-  </article>
-
-<!--   card 4 -->
-  <article class="card">
-	<div class="card-header">
-		<a href="https://www.sparkfun.com/products/14427"><center><b>Qwiic Cable - 100mm</b><br /> PRT-14427</center></a>
-	</div>    
-    <div class="card-content">
-		<a href="https://www.sparkfun.com/products/14427">
-			<img alt="Qwiic Cable - 100mm" src="https://cdn.sparkfun.com//assets/parts/1/2/4/5/3/14427-Qwiic_Cable_-_100mm-01.jpg" >
-		</a>
-   </div><!-- .card-content -->
-  </article>
-
-<!--   card 5 -->
-  <article class="card">
-	<div class="card-header">
-		<a href="https://www.sparkfun.com/products/10215"><center><b>USB micro-B Cable - 6 Foot</b><br /> CAB-10215</center></a>
-	</div>    
-    <div class="card-content">
-		<a href="https://www.sparkfun.com/products/10215">
-			<img alt="USB micro-B Cable - 6 Foot" src="https://cdn.sparkfun.com/assets/parts/4/5/5/8/10215-01.jpg" >
-		</a>
-   </div><!-- .card-content -->
-  </article>
-
-
-  </section>
+<table style="border-style:none">
+    <tr>
+        <td>
+            <a href="https://www.sparkfun.com/products/22397">
+                <center><img src="https://cdn.sparkfun.com/assets/parts/2/2/4/2/9/22397_1_1.jpg" style="width:140px; height:140px; object-fit:contain;" alt="SparkFun 6DoF IMU Breakout - BMI270 (Qwiic)"></center>
+                <h3 class="title">SparkFun 6DoF IMU Breakout - BMI270 (Qwiic)</h3>
+            </a>
+            SEN-22397
+        </td>
+        <td>
+            <a href="https://www.sparkfun.com/products/22398">
+                <center><img src="https://cdn.sparkfun.com/assets/parts/2/2/4/3/0/22398_1_1.jpg" style="width:140px; height:140px; object-fit:contain;" alt="SparkFun Micro 6DoF IMU Breakout - BMI270 (Qwiic)"></center>
+                <h3 class="title">SparkFun Micro 6DoF IMU Breakout - BMI270 (Qwiic)</h3>
+            </a>
+            SEN-22398
+        </td>
+        <td>
+            <a href=" https://www.sparkfun.com/products/17259">
+                <center><img src="https://cdn.sparkfun.com/r/455-455/assets/parts/1/6/2/4/6/17259-Flexible_Qwiic_Cable_-_100mm-01.jpg" style="width:140px; height:140px; object-fit:contain;" alt="USB micro-B Cable - 6 Foot" height="140"></center>
+                <h3 class="title">Flexible Qwiic Cable - 100mm</h3>
+            </a>
+            PRT-17259
+        </td>
+        <td>
+            <a href="https://www.sparkfun.com/products/10215">
+                <center><img src="https://cdn.sparkfun.com/r/455-455/assets/parts/4/5/5/8/10215-01.jpg" style="width:140px; height:140px; object-fit:contain;" alt="USB micro-B Cable - 6 Foot" >
+                </center>
+                <h3 class="title">USB micro-B Cable - 6 Foot</h3>
+            </a>
+            CAB-10215
+        </td>
+        <td>
+            <a href="https://www.sparkfun.com/products/15663">
+                <center><img src="https://cdn.sparkfun.com/assets/parts/1/4/2/4/1/15663-SparkFun_Thing_Plus_-_ESP32_WROOM-01.jpg" style="width:140px; height:140px; object-fit:contain;" alt="SparkFun ESP32 Thing Plus" >
+                </center>
+                <h3 class="title">SparkFun ESP32 Thing Plus</h3>
+            </a>
+            DEV-15663
+        </td>
+    </tr>
+</table>
 
 ### Suggested Reading
 
 If you aren’t familiar with the following concepts, we recommend checking out these tutorials before continuing.
 
-<section class="cards">
+<div class="grid cards hide col-4" markdown align="center">
 
-<!--   card 1 -->
-  <article class="card">
-    <picture class="thumbnail">
-         <img class="category__01" src="https://cdn.sparkfun.com/assets/custom_pages/2/7/2/qwiic-logo-registered.jpg" alt="" />
-    </picture>
-    <div class="card-content">
-      <a href="https://www.sparkfun.com/qwiic">Qwiic Connect System</a>
-   </div><!-- .card-content -->
-  </article>
+-   <a href="https://learn.sparkfun.com/tutorials/82">
+    <figure markdown>
+    ![I2C](https://cdn.sparkfun.com/assets/learn_tutorials/8/2/I2C-Block-Diagram.jpg)
+    </figure>
+    </a>
+    <a href="https://learn.sparkfun.com/tutorials/82">**I2C**
+    </a>
 
-<!--   card 2 -->
-  <article class="card">
-    <picture class="thumbnail">
-         <img class="category__02" src="https://cdn.sparkfun.com/assets/6/7/e/5/a/516c6b6ece395f0f49000000.jpeg" alt="" />
-    </picture>
-    <div class="card-content">
-      <a href="https://learn.sparkfun.com/tutorials/accelerometer-basics">Accelerometer Basics</a>
-   </div><!-- .card-content -->
-  </article>
+-   <a href="https://learn.sparkfun.com/tutorials/terminal-basics">
+    <figure markdown>
+    ![SPI](https://cdn.sparkfun.com/assets/learn_tutorials/1/1/2/terminalThumb.jpg)
+    </figure>
+    </a>
+    <a href="https://learn.sparkfun.com/tutorials/terminal-basics">**Serial Terminal Basics**
+    </a>
+</div>
 
-<!--   card 3 -->
-  <article class="card">
-    <picture class="thumbnail">
-         <img class="category__03" src="https://cdn.sparkfun.com/assets/learn_tutorials/8/2/I2C-Block-Diagram.jpg" alt="" />
-    </picture>
-    <div class="card-content">
-      <a href="https://learn.sparkfun.com/tutorials/i2c">I2C</a>
-   </div><!-- .card-content -->
-  </article>
-</section>
+<center>
+<div align="center">
+    <div style="top:5px;left:5px;background-color:Gray;position:relative">
+        <div style="top:-5px;left:-5px;background-color:#ffffff;position:relative;border:1px solid black;">
+            <a href="https://www.sparkfun.com/qwiic"><img src="https://cdn.sparkfun.com/assets/custom_pages/2/7/2/qwiic-logo.png" alt="Qwiic Connect System" title="Qwiic Connect System"></a>
+        </div>
+    </div>
+</div>
+</center>
 
+The SparkFun 6DoF IMU Breakout - BMI270 (Qwiic) Sensor takes advantage of the [Qwiic connect system](https://www.sparkfun.com/qwiic). We recommend familiarizing yourself with the **Logic Levels** and **I<sup>2</sup>C** tutorials.  Click on the banner above to learn more about [Qwiic products](https://www.sparkfun.com/qwiic).
 
-
-
-
-
+<center>
+    <iframe width="600" height="327" src="https://www.youtube.com/embed/x0RDEHqFIF8" title="SparkFun's Qwiic Connect System" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</center>
