@@ -1,21 +1,15 @@
-# SparkFun_Qwiic_6DoF_BMI270
+SparkFun Qwiic 6DoF BMI270
 ========================================
 
 
 <table class="table table-hover table-striped table-bordered">
-    <tr>
-        <th class="text-center"> 
-        </th>
-        <th class="text-center">
-        </th>
+    <tr align="center">
+        <td><a href="https://www.sparkfun.com/products/22397"><img src="https://cdn.sparkfun.com/r/600-600/assets/parts/2/2/4/2/9/22397_1_1.jpg" alt="SparkFun 6DoF IMU Breakout - BMI270 (Qwiic)"></a></td>
+        <td><a href="https://www.sparkfun.com/products/22398"><img src="https://cdn.sparkfun.com/r/600-600/assets/parts/2/2/4/3/0/22398_1_1.jpg" alt="SparkFun Micro 6DoF IMU Breakout - BMI270 (Qwiic)"></a></td>
     </tr>
     <tr align="center">
-        <td><a href="https://www.sparkfun.com/products/22397"><img src="https://cdn.sparkfun.com/assets/parts/2/2/4/2/9/22397_1_1.jpg" alt=""></a></td>
-        <td><a href="https://www.sparkfun.com/products/22398"><img src="https://cdn.sparkfun.com/assets/parts/2/2/4/3/0/22398_1_1.jpg" alt=""></a></td>
-    </tr>
-    <tr align="center">
-        <td><a href="https://www.sparkfun.com/products/22397">SparkFun 6DoF IMU Breakout - BMI270 (Qwiic)</a></td>
-        <td><a href="https://www.sparkfun.com/products/22398">SparkFun Micro 6DoF IMU Breakout - BMI270 (Qwiic)</a></td>
+        <td><i><a href="https://www.sparkfun.com/products/22397">SparkFun 6DoF IMU Breakout - BMI270 (Qwiic)</a></td><i></td>
+        <td><i><a href="https://www.sparkfun.com/products/22398">SparkFun Micro 6DoF IMU Breakout - BMI270 (Qwiic)</a><</i>/td>
     </tr>
 </table>
 
